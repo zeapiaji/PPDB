@@ -9,9 +9,8 @@
           <li class="dropdown"><a href="#about"><span>Profile</span><i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#about">Sekolah</a></li>
-              <li><a href="#guru">Orang Penting</a></li>
+              <li><a href="#team">Orang Penting</a></li>
             </ul>
-          <li><a class="nav-link scrollto" href="#services">Ekstrakulikuler</a></li>
           <li><a class="nav-link scrollto" href="#galeri">Galeri</a></li>
           <li><a class="nav-link scrollto" href="#news">Berita</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
