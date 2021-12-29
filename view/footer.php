@@ -8,7 +8,7 @@
       <div class="col-lg-3 col-md-6 footer-contact">
         <h3>SMKS MAHAPUTRA CERDAS UTAMA</h3>
         <p>
-          Jl.Katapang-Andir Km.4 Kp.Pasantren Desa Sukamukti Kec.Katapang, Kab.Bandung<br><br>
+          Jl. Katapang-Andir Km. 4 Kp. Pasantren Desa Sukamukti Kec. Katapang, Kab. Bandung<br><br>
         </p>
       </div>
 
@@ -26,12 +26,14 @@
       </div>
 
       <div class="col-lg-4 col-md-6 footer-newsletter">
-        <h4>Senin s.d Jumat</h4>
+        <h4 style="margin-bottom: -10px;">Senin s.d Jumat</h4>
         <p>Pukul 08.00 - 16.00 WIB</p>
-        <h4>Sabtu</h4>
+
+        <h4 style="margin-bottom: -10px;">Sabtu</h4>
         <p>Pukul 09.00 - 15.00 WIB</p>
-        <h4>Minggu / Tanggal Merah</h4>
-        <p>LIBUR</p>
+
+        <h4 style="margin-bottom: -10px;">Minggu / Tanggal Merah</h4>
+        <p>Libur</p>
       </div>
 
     </div>
@@ -42,7 +44,7 @@
 
   <div class="me-md-auto text-center text-md-start">
     <div class="copyright">
-      &copy; Copyright <strong><span>OnePage</span></strong>. All Rights Reserved
+      &copy; Copyright <strong><span>SMK MAHAPUTRA CERDAS UTAMA</span></strong>. All Rights Reserved
     </div>
     <div class="credits">
       <!-- All the links in the footer should remain intact. -->
@@ -53,11 +55,9 @@
     </div>
   </div>
   <div class="social-links text-center text-md-right pt-3 pt-md-0">
-    <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-    <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-    <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-    <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-    <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+    <a href="https://www.instagram.com/smkmahaputracerdasutama/?hl=id" class="instagram"><i class="bx bxl-instagram"></i></a>
+    <a href="https://www.facebook.com/smkmahaputra/" class="facebook"><i class="bx bxl-facebook"></i></a>
+    <a href="https://www.youtube.com/channel/UCCfYqV-2N44pFhsQpGEedCw" class="youtube"><i class="bx bxl-youtube"></i></a>
   </div>
 </div>
 </footer><!-- End Footer -->
