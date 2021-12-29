@@ -12,7 +12,7 @@
 
           <div id="multimedia" class="col-lg-6 pt-lg-0 content" data-aos="fade-left" data-aos-delay="100">
             <h3>Jurusan Multimedia</h3>
-            <p class="fst-italic">
+            <p>
               Jurusan Multimedia merupakan salah satu kompetensi keahlian di SMK yang termasuk dalam rumpun bidang keahlian Teknik Komputer dan Informatika. Jurusan ini ditempuh dalam 3 tahun masa belajar. Multimedia juga memberikan peluang bagi lulusannya untuk membuka usaha atau berwirausaha sendiri dalam bidang multimedia. 
             </p>
             <ul>
@@ -35,7 +35,7 @@
 
           <div id="rpl" class="col-lg-6 pt-lg-0 content" data-aos="fade-left" data-aos-delay="100">
             <h3>Jurusan Rekayasa Perangkat Lunak</h3>
-            <p class="fst-italic">
+            <p>
               Jurusan Multimedia merupakan salah satu kompetensi keahlian di SMK yang termasuk dalam rumpun bidang keahlian Teknik Komputer dan Informatika. Jurusan ini ditempuh dalam 3 tahun masa belajar. Multimedia juga memberikan peluang bagi lulusannya untuk membuka usaha atau berwirausaha sendiri dalam bidang multimedia. 
             </p>
             <ul>
@@ -63,19 +63,36 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
+<<<<<<< HEAD
           <h2>Profil</h2>
           <p>Profl SMK MAHAPUTRA CERDAS UTAMA. </p>
+=======
+          <h2>Profile</h2>
+          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. </p>
+>>>>>>> 4318279cee831ea41d5afc3d5eddb29cd1218276
         </div>
 
         <div class="row content about-video">
-          <div class="col-lg-6 video-box align-self-baseline" data-aos="fade-right" data-aos-delay="100">
-            <img src="assets/img/about-video.jpg" class="img-fluid" alt="">
-            <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
-          </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
+<<<<<<< HEAD
             <p class="fs-4">
             SMKS Mahaputra Cerdas Utama didirikan pada 22 Agustus tahun 2016, adalah salah satu SMK swasta yang ada di Kabupaten Bandung yang memiliki program studi Multimedia (MM) dan Rekyasa Perangkat Lunak (RPL), menjadi sekolah pertama di Kabupaten Bandung dengan Konsep Green School atau Sekolah Hijau yang ramah lingkungan SMKS Mahaputra Cerdas Utama berkomitmen untuk mencetak Sumber Daya Manusia (SDM) yang unggul di era 4.0.
+=======
+            <p>
+              <b>Visi</b> <br>
+              Menjadi penyelenggara pendidikan kejuruan berkarakter religius, yang melahirkan tenaga ahli, terampil, kreatif, inovatif, dan berpengetahuan yang ramah lingkungan di tahun 2025.
+              <br>
+              <b>Misi</b> <br>
+              1.Menyelenggarakan pendidikan kejuruan berkarakter religius.
+              2.Melahirkan tenaga ahli tingkat menengah yang berakhlakul karimah.
+              3.Mewujudkan tenaga terampil, kreatif, inovatif, dan berpengetahuan.
+              4.Membangun perilaku yang peduli terhdap lingkungan.
+              5.Menjalin kerjasama kerjasama dengan lembaga akademik dan non akademik ditingkat lokal, nasional, dan internasioanal
+>>>>>>> 4318279cee831ea41d5afc3d5eddb29cd1218276
             </p>
+          </div>
+          <div class="col-lg-6 video-box align-self-baseline" data-aos="fade-right" data-aos-delay="100">
+            <p>SMKS Mahaputra Cerdas Utama didirikan pada 22 Agustus tahun 2016, adalah salah satu SMK swasta yang ada di Kabupaten Bandung yang memiliki program study Multimedia (MM) dan Rekyasa Perangkat Lunak (RPL), menjadi sekolah pertama di Kabupaten Bandung dengan Konsep Green School atau Sekolah Hijau yang ramah lingkungan SMKS Mahaputra Cerdas Utama berkomitmen untuk mencetak Sumber Daya Manusia (SDM) yang unggul di era 4.0.</p>
           </div>
         </div>
 
@@ -95,8 +112,65 @@
     </section>
     <!-- End Clients Section -->
 
+<<<<<<< HEAD
     <!-- ======= Team Section ======= -->
     <section id="news" class="team section-bg">
+=======
+        <!-- ======= Team Section ======= -->
+    <section id="team" class="team section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>PARA PENDIRI SMKS MAHAPUTRA CERDAS UTAMA</h2>
+          <p>Berikut ini adalah para pendiri SMKS MAHAPUTRA CERDAS UTAMA </p>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+            <div class="member">
+              <div class="member-img">
+                <img src="foto prof.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>Prof.Dr.Ir.H.Eddy Jusuf Sp,. M.Si., M.Kom.</h4>
+                <span>Ketua Dewan Pembina Yayasan</span>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
+            <div class="member">
+              <div class="member-img">
+                <img src="foto ibu yayasan.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>Dr.Hj.Dewi Indriani,SE,MSi</h4>
+                <span>Ibu Ketua Yayasan</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+            <div class="member">
+              <div class="member-img">
+                <img src="foto pa kepsek.jpg" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h4>Drs. Dedi Hidayat</h4>
+                <span>Kepala Sekolah</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Team Section -->
+
+    <!-- ======= Testimonials Section ======= -->
+    <!-- <section id="guru" class="testimonials">
+>>>>>>> 4318279cee831ea41d5afc3d5eddb29cd1218276
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -117,6 +191,7 @@
                   <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
+<<<<<<< HEAD
               <div class="member-info">
                 <h4>Walter White</h4>
                 <span>Chief Executive Officer</span>
@@ -182,9 +257,45 @@
 
       </div>
     </section><!-- End Team Section -->
+=======
+            </div> --><!-- End testimonial item -->
+
+            <!-- <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+                <h3>Drs. Dedi Hidayat</h3>
+                <h4>Kepala Sekolah</h4>
+              </div>
+            </div> --><!-- End testimonial item -->
+
+            <!-- <div class="swiper-slide">
+              <div class="testimonial-item">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+                <h3>Istri pak edy</h3>
+                <h4>Store Owner</h4>
+              </div>
+            </div> --><!-- End testimonial item -->
+
+          <!-- </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
+      </div>
+    </section> --><!-- End Testimonials Section -->
+>>>>>>> 4318279cee831ea41d5afc3d5eddb29cd1218276
 
     <!-- ======= Services Section ======= -->
-    <section id="services" class="services section-bg">
+    <!-- <section id="services" class="services section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -274,34 +385,29 @@
         </div>
 
       </div>
-    </section><!-- End Sevices Section -->
-
-    <!-- ======= Cta Section ======= -->
-    <section id="cta" class="cta">
-      <div class="container" data-aos="zoom-in">
-        <div class="text-center">
-          <h3>Call To Action</h3>
-          <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          <a class="cta-btn" href="#">Call To Action</a>
-        </div>
-      </div>
-    </section><!-- End Cta Section -->
+    </section> --><!-- End Sevices Section -->
 
     <!-- ======= Portfolio Section ======= -->
     <section id="galeri" class="portfolio">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Portfolio</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>GALERI</h2>
+          <p>Berikut beberapa kegiatan yang ada di SMKS MAHAPUTRA CERDAS UTAMA</p>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="150">
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
+<<<<<<< HEAD
               <li data-filter="*" class="filter-active">Semua</li>
               <li data-filter=".filter-app">Eskul</li>
               <li data-filter=".filter-card">Osis</li>
+=======
+              <li data-filter="*" class="filter-active">All</li>
+              <li data-filter=".filter-app">Eskul</li>
+              <li data-filter=".filter-card">OSIS</li>
+>>>>>>> 4318279cee831ea41d5afc3d5eddb29cd1218276
             </ul>
           </div>
         </div>
@@ -438,94 +544,6 @@
 
       </div>
     </section><!-- End Portfolio Section -->
-
-    <!-- ======= Team Section ======= -->
-    <section id="news" class="team section-bg">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Team</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
-
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Executive Officer</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Team Section -->
 
     <!-- ======= Pricing Section ======= -->
     <section id="pricing" class="pricing">

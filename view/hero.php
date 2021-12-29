@@ -1,6 +1,11 @@
  <!-- ======= Hero Section ======= -->
+<<<<<<< HEAD
  <section id="hero" class="d-flex">
   <div class="container-fluid position-relative" data-aos="fade-up" data-aos-delay="100" style="padding-right: 0px; padding-left: 0px;">
+=======
+<section id="hero" class="d-flex">
+  <div class="container-fluid position-relative" data-aos="fade-up" data-aos-delay="100" style="padding-right: 0px; padding-left: 0px">
+>>>>>>> 4318279cee831ea41d5afc3d5eddb29cd1218276
     <div data-aos="fade-up" data-aos-delay="100">
       <div id="carouselExampleIndicators" class="carousel slide mt-4" data-bs-ride="carousel">
         <div class="carousel-indicators">
@@ -31,6 +36,7 @@
     </div>
   </div>
 </section>
+<<<<<<< HEAD
 
 <!--  <section id="hero" class="d-flex align-items-center">
     <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
@@ -72,3 +78,6 @@
   </section> -->
   <!-- End Hero -->
 
+=======
+  <!-- End Hero -->
+>>>>>>> 4318279cee831ea41d5afc3d5eddb29cd1218276
