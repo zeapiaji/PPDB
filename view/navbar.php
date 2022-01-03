@@ -9,16 +9,11 @@
           <li class="dropdown"><a href="#about"><span>Profil</span><i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#about">Sekolah</a></li>
-<<<<<<< HEAD
               <li><a href="#guru">Manajemen</a></li>
             </ul>
           <li><a class="nav-link scrollto" href="#services">Ekstrakurikuler</a></li>
-=======
-              <li><a href="#team">Orang Penting</a></li>
-            </ul>
->>>>>>> 4318279cee831ea41d5afc3d5eddb29cd1218276
           <li><a class="nav-link scrollto" href="#galeri">Galeri</a></li>
-          <li><a class="nav-link scrollto" href="#news">Berita</a></li>
+          <li><a class="nav-link scrollto" href="berita.php">Berita</a></li>
           <li><a class="nav-link scrollto" href="#contact">Kontak</a></li>
           <li><a class="getstarted scrollto" href="#pricing">PPDB</a></li>
         </ul>

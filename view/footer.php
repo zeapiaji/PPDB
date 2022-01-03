@@ -55,15 +55,9 @@
     </div>
   </div>
   <div class="social-links text-center text-md-right pt-3 pt-md-0">
-<<<<<<< HEAD
     <a href="https://www.instagram.com/smkmahaputracerdasutama/?hl=id" class="instagram"><i class="bx bxl-instagram"></i></a>
     <a href="https://www.facebook.com/smkmahaputra/" class="facebook"><i class="bx bxl-facebook"></i></a>
     <a href="https://www.youtube.com/channel/UCCfYqV-2N44pFhsQpGEedCw" class="youtube"><i class="bx bxl-youtube"></i></a>
-=======
-    <a href="https://www.facebook.com/smkmahaputra/" class="facebook"><i class="bx bxl-facebook"></i></a>
-    <a href="https://www.instagram.com/smkmahaputracerdasutama/" class="instagram"><i class="bx bxl-instagram"></i></a>
-    <a href="https://smkmahaputra.sch.id/public/" class="google-plus"><i class="bx bxl-skype"></i></a>
->>>>>>> 4318279cee831ea41d5afc3d5eddb29cd1218276
   </div>
 </div>
 </footer><!-- End Footer -->
