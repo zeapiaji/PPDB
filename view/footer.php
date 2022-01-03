@@ -47,13 +47,13 @@
         <h4 style="margin-bottom: -10px; font-size: 16px; color: #124265;">Jam Kerja</h4>
         <br>
 
-        <h4 style="margin-bottom: -10px; font-size: 16px;">Senin s.d Jumat</h4>
+        <h4 style="margin-bottom: -10px; font-size: 16px; color: #444444;">Senin s.d Jumat</h4>
         <p style="font-size: 14px;">Pukul 08.00 - 16.00 WIB</p>
 
-        <h4 style="margin-bottom: -10px; font-size: 16px;">Sabtu</h4>
+        <h4 style="margin-bottom: -10px; font-size: 16px; color: #444444;">Sabtu</h4>
         <p style="font-size: 14px;">Pukul 09.00 - 15.00 WIB</p>
 
-        <h4 style="margin-bottom: -10px; font-size: 16px;">Minggu / Tanggal Merah</h4>
+        <h4 style="margin-bottom: -10px; font-size: 16px; color: #444444;">Minggu / Tanggal Merah</h4>
         <p style="font-size: 14px;">Libur</p>
       </div>
 
@@ -72,7 +72,7 @@
 
   <div class="me-md-auto text-center text-md-start">
     <div class="copyright">
-      &copy; Copyright <strong><span>SMK MAHAPUTRA CERDAS UTAMA</span></strong>. All Rights Reserved
+      &copy; Copyright <strong><span>SMKS MAHAPUTRA CERDAS UTAMA</span></strong>. All Rights Reserved
     </div>
     <div class="credits">
       <!-- All the links in the footer should remain intact. -->

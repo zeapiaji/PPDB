@@ -95,15 +95,31 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/portfolio-1.jpg" alt="">
+                  <img src="../assets/img/portfolio/IMG_9413.jpg" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/portfolio-2.jpg" alt="">
+                  <img src="../assets/img/portfolio/IMG_9379.jpg" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/portfolio-3.jpg" alt="">
+                  <img src="../assets/img/portfolio/IMG_9419.jpg" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="../assets/img/portfolio/IMG_9548.jpg" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="../assets/img/portfolio/IMG_9576.jpg" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="../assets/img/portfolio/IMG_9828.jpg" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="../assets/img/portfolio/IMG_9865.jpg" alt="">
                 </div>
 
               </div>
@@ -113,18 +129,16 @@
 
           <div class="col-lg-4">
             <div class="portfolio-info">
-              <h3>Project information</h3>
+              <h3>Festival Film</h3>
               <ul>
-                <li><strong>Category</strong>: Web design</li>
-                <li><strong>Client</strong>: ASU Company</li>
-                <li><strong>Project date</strong>: 01 March, 2020</li>
-                <li><strong>Project URL</strong>: <a href="#">www.example.com</a></li>
+                <li><strong>Tempat</strong> : SMKS Mahaputra Cerdas Utama</li>
+                <li><strong>Waktu &nbsp&nbsp</strong>: GATAU</li>
               </ul>
             </div>
             <div class="portfolio-description">
-              <h2>This is an example of portfolio detail</h2>
+              <h2>Festival Film</h2>
               <p>
-                Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
+                festivalshldkhgdvhroedklfvnfervwopaj;fifrheoughesnlskdmzxkzidfuhysmliuhygtfrdeswedrtfgyhunjimjbkjblkzcbvoighioncoiojfaklmskfshzncnnmcnbknrhgiioruojroiheiutyjsnsnmmcnigndlkgkadhywwtdngmxnjhuhsfnnkjhit n khiudighkdhgkshghgkeshgifbgs
               </p>
             </div>
           </div>
@@ -137,68 +151,96 @@
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
-    <footer id="footer">
+  <footer id="footer">
 
-    <div class="footer-top">
-      <div class="container">
-        <div class="row">
+  <div class="footer-top">
+    <div class="container">
+      <div class="row">
 
-          <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>SMKS MAHAPUTRA CERDAS UTAMA</h3>
-            <p>
-              Jl. Katapang-Andir Km. 4 Kp. Pasantren Desa Sukamukti Kec. Katapang, Kab. Bandung<br><br>
-            </p>
-          </div>
+        <div class="col-lg-4 col-md-6 footer-contact">
+          <h3>SMKS MAHAPUTRA CERDAS UTAMA</h3>
+            <div class="contact">
+              <div class="info">
+                <div class="address">
+                  <i class="bi bi-geo-alt"></i>
+                  <h4>Lokasi:</h4>
+                  <p>Jl. Katapang-Andir Km. 4 Kp. Pasantren Desa Sukamukti Kec. Katapang, Kab. Bandung</p>
+                </div>
 
-          <div class="col-lg-3 col-md-6 footer-links mx-5">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#hero">Beranda</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#jurusan">Jurusan</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#about">Profile</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#galeri">Galeri</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#news">Berita</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#contact">Contact</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#pricing">PPDB</a></li>
-            </ul>
-          </div>
+                <div class="email">
+                  <i class="bi bi-envelope"></i>
+                  <h4>Email:</h4>
+                  <p>smkmahaputracerdasutama@gmail.com</p>
+                </div>
 
-          <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4 style="margin-bottom: -10px;">Senin s.d Jumat</h4>
-            <p>Pukul 08.00 - 16.00 WIB</p>
-
-            <h4 style="margin-bottom: -10px;">Sabtu</h4>
-            <p>Pukul 09.00 - 15.00 WIB</p>
-
-            <h4 style="margin-bottom: -10px;">Minggu / Tanggal Merah</h4>
-            <p>Libur</p>
-          </div>
-
+                <div class="phone">
+                  <i class="bi bi-phone"></i>
+                  <h4>Telepon:</h4>
+                  <p>0895-6304-68373</p>
+                </div>
+              </div>
+            </div>
         </div>
+
+        <div class="col-lg-2 col-md-6 footer-links">
+          <h4>Useful Links</h4>
+          <ul>
+            <li><i class="bx bx-chevron-right"></i> <a href="../#hero">Beranda</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="../#jurusan">Jurusan</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="../#about">Profile</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="../#galeri">Galeri</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="../#news">Berita</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="../#contact">Contact</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="../#pricing">PPDB</a></li>
+          </ul>
+        </div>
+
+        <div class="col-lg-2 col-md-6 footer-newsletter">
+          <h4 style="margin-bottom: -10px; font-size: 16px; color: #124265;">Jam Kerja</h4>
+          <br>
+
+          <h4 style="margin-bottom: -10px; font-size: 16px;">Senin s.d Jumat</h4>
+          <p style="font-size: 14px;">Pukul 08.00 - 16.00 WIB</p>
+
+          <h4 style="margin-bottom: -10px; font-size: 16px;">Sabtu</h4>
+          <p style="font-size: 14px;">Pukul 09.00 - 15.00 WIB</p>
+
+          <h4 style="margin-bottom: -10px; font-size: 16px;">Minggu / Tanggal Merah</h4>
+          <p style="font-size: 14px;">Libur</p>
+        </div>
+
+        <div class="col-lg-4 col-md-6">
+          <h4>Maps</h4>
+          <div>
+            <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.0968208910313!2d107.57727271477331!3d-6.997878494944868!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e94c27f4ee2f%3A0x5cff6a44153d50b4!2sSMK%20Mahaputra%20Cerdas%20Utama%20.%20Yayasan%20Mahaputra!5e0!3m2!1sid!2sid!4v1640333211954!5m2!1sid!2sid" frameborder="0" allowfullscreen></iframe>
+          </div>
+        </div>
+
       </div>
     </div>
+  </div>
 
-    <div class="container d-md-flex py-4">
+  <div class="container d-md-flex py-4">
 
-      <div class="me-md-auto text-center text-md-start">
-        <div class="copyright">
-          &copy; Copyright <strong><span>SMK MAHAPUTRA CERDAS UTAMA</span></strong>. All Rights Reserved
-        </div>
-        <div class="credits">
-          <!-- All the links in the footer should remain intact. -->
-          <!-- You can delete the links only if you purchased the pro version. -->
-          <!-- Licensing information: https://bootstrapmade.com/license/ -->
-          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/ -->
-          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-        </div>
+    <div class="me-md-auto text-center text-md-start">
+      <div class="copyright">
+        &copy; Copyright <strong><span>SMKS MAHAPUTRA CERDAS UTAMA</span></strong>. All Rights Reserved
       </div>
-      <div class="social-links text-center text-md-right pt-3 pt-md-0">
-        <a href="https://www.instagram.com/smkmahaputracerdasutama/?hl=id" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="https://www.facebook.com/smkmahaputra/" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="https://www.youtube.com/channel/UCCfYqV-2N44pFhsQpGEedCw" class="youtube"><i class="bx bxl-youtube"></i></a>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/ -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
       </div>
     </div>
-    </footer><!-- End Footer -->
+    <div class="social-links text-center text-md-right pt-3 pt-md-0">
+      <a href="https://www.instagram.com/smkmahaputracerdasutama/?hl=id" class="instagram"><i class="bx bxl-instagram"></i></a>
+      <a href="https://www.facebook.com/smkmahaputra/" class="facebook"><i class="bx bxl-facebook"></i></a>
+      <a href="https://www.youtube.com/channel/UCCfYqV-2N44pFhsQpGEedCw" class="youtube"><i class="bx bxl-youtube"></i></a>
+    </div>
+  </div>
+  </footer><!-- End Footer -->
 
   <div id="preloader"></div>
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>

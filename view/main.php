@@ -169,10 +169,10 @@
               <img src="assets/img/portfolio/IMG_8038.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Kunjungan Industri</h4>
-                <p>Trans Studio Bandung</p>
+                <p>25 November 2021</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/IMG_8038.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                  <a href="view/galeri.php" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="view/kunjin_detail.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -186,7 +186,7 @@
                 <p>tgl</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/DSC_0157.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                  <a href="view/galeri.php" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="view/festfilm_detail.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -200,7 +200,7 @@
                 <p>tanggal</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/IMG_9413.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                  <a href="view/galeri.php" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="view/ldks_detail.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -214,7 +214,7 @@
                 <p>tangal</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/IMG_9416.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                  <a href="view/galeri.php" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="view/porseni_detail.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -228,7 +228,7 @@
                 <p>tanggal</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/IMG_9288.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                  <a href="view/galeri.php" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="view/festfilm_detail.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -239,10 +239,10 @@
               <img src="assets/img/portfolio/IMG_8656.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Kunjungan Industri</h4>
-                <p>tanggal</p>
+                <p>25 November 2021</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/IMG_8656.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                  <a href="view/galeri.php" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="view/kunjin_detail.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -256,7 +256,7 @@
                 <p>tanggal</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/IMG_9651.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                  <a href="view/galeri.php" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="view/porseni_detail.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -270,7 +270,7 @@
                 <p>tanggal</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/IMG_9548.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                  <a href="view/galeri.php" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="view/ldks_detail.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -339,7 +339,7 @@
     </section><!-- End Pricing Section -->
 
     <!-- ======= Pricing Section ======= -->
-    <section id="pricing" class="pricing">
+    <section id="pricing" class="pricing" style="padding-top: 0px;">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -418,22 +418,8 @@
       </div>
     </section><!-- End Pricing Section -->
 
-    <!-- ======= Frequently Asked Questions Section ======= -->
-    <section id="faq" class="faq section-bg">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-        </div>
-
-        <div class="faq-list">
-
-        </div>
-
-      </div>
-    </section><!-- End Frequently Asked Questions Section -->
-
     <!-- ======= Contact Section ======= -->
-    <section id="contact" class="contact">
+    <!-- <section id="contact" class="contact">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -501,6 +487,6 @@
         </div>
 
       </div>
-    </section><!-- End Contact Section -->
+    </section> --><!-- End Contact Section -->
 
   </main><!-- End #main -->
