@@ -13,7 +13,7 @@
             </ul>
           <li><a class="nav-link scrollto" href="#galeri">Galeri</a></li>
           <li><a class="nav-link scrollto" href="#">Berita</a></li>
-          <li><a class="nav-link scrollto" href="#contact">Kontak</a></li>
+          <li><a class="nav-link scrollto" href="#footer">Kontak</a></li>
           <li><a class="getstarted scrollto" href="#pricing">PPDB</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>

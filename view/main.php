@@ -4,51 +4,57 @@
     <section id="jurusan" class="about-video">
       <div class="container" data-aos="fade-up">
 
+        <div class="section-title">
+          <h2>Kompetensi Keahlian</h2>
+          <p>Kompetensi keahlian yang ada di SMKS MAHAPUTRA CERDAS UTAMA yaitu : </p>
+        </div>
+
         <div class="row">
 
           <div class="col-lg-6 video-box align-self-baseline" data-aos="fade-right" data-aos-delay="100">
-            <img src="assets/img/about-video.jpg" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/890055b1-e9c4-447d-9b32-c0d3e8e29c8f.jpg" style="width: 100%; height: 330px;" class="img-fluid" alt="">
           </div>
 
           <div id="multimedia" class="col-lg-6 pt-lg-0 content" data-aos="fade-left" data-aos-delay="100">
-            <h3>Jurusan Multimedia</h3>
+            <h3>Multimedia</h3>
             <p>
-              Jurusan Multimedia merupakan salah satu kompetensi keahlian di SMK yang termasuk dalam rumpun bidang keahlian Teknik Komputer dan Informatika. Jurusan ini ditempuh dalam 3 tahun masa belajar. Multimedia juga memberikan peluang bagi lulusannya untuk membuka usaha atau berwirausaha sendiri dalam bidang multimedia. 
+              Jurusan Multimedia merupakan salah satu kompetensi keahlian di SMK yang termasuk dalam rumpun bidang keahlian Teknik Komputer dan Informatika. Jurusan ini ditempuh dalam 3 tahun masa belajar. Multimedia juga memberikan peluang bagi lulusannya untuk membuka usaha atau berwirausaha sendiri dalam bidang multimedia. Adapun keahlian yang akan dipelajari yaitu :
             </p>
             <ul>
-              <li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bx bx-check-double"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bx bx-check-double"></i> Voluptate repellendus pariatur reprehenderit corporis sint.</li>
-              <li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+              <li><i class="bx bx-check-double"></i> Desain Grafis.</li>
+              <li><i class="bx bx-check-double"></i> Sinematografi.</li>
+              <li><i class="bx bx-check-double"></i> Animasi.</li>
+              <li><i class="bx bx-check-double"></i> Fotografi.</li>
+              <li><i class="bx bx-check-double"></i> Broadcasting.</li>
             </ul>
           </div>
 
         </div>
 
       </div>
-    </section>
 
-    <section id="jurusan" class="about-video">
       <div class="container" data-aos="fade-up">
 
         <div class="row">
 
           <div id="rpl" class="col-lg-6 pt-lg-0 content" data-aos="fade-left" data-aos-delay="100">
-            <h3>Jurusan Rekayasa Perangkat Lunak</h3>
+            <h3>Rekayasa Perangkat Lunak</h3>
             <p>
-              Jurusan Multimedia merupakan salah satu kompetensi keahlian di SMK yang termasuk dalam rumpun bidang keahlian Teknik Komputer dan Informatika. Jurusan ini ditempuh dalam 3 tahun masa belajar. Multimedia juga memberikan peluang bagi lulusannya untuk membuka usaha atau berwirausaha sendiri dalam bidang multimedia. 
+              Rekayasa Perangkat Lunak merupakan sebuah jurusan yang ada di Sekolah Menengah Kejuruan (SMK).Bukan hanya itu, RPL juga berkaitan dengan software komputer mulai dari pembuatan website, aplikasi, game dan semua yang berkaitan dengan pemrograman dengan menguasai bahasa pemrograman tersebut.
             </p>
             <ul>
-              <li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bx bx-check-double"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bx bx-check-double"></i> Voluptate repellendus pariatur reprehenderit corporis sint.</li>
-              <li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+              <li><i class="bx bx-check-double"></i> Basis Data.</li>
+              <li><i class="bx bx-check-double"></i> Membuat Sistem.</li>
+              <li><i class="bx bx-check-double"></i> Pemrograman.</li>
+              <li><i class="bx bx-check-double"></i> Web Design.</li>
+              <li><i class="bx bx-check-double"></i> Mobile Aplication.</li>
+              <li><i class="bx bx-check-double"></i> Sistem Robotika.</li>
             </ul>
           </div>
 
 
           <div class="col-lg-6 video-box align-self-baseline" data-aos="fade-right" data-aos-delay="100">
-            <img src="assets/img/about-video.jpg" class="img-fluid" alt="">
+            <img src="assets/img/portfolio/de38f358-53ce-4974-8b51-77b2535bad36.jpg" style="width: 100%; height: 330px;" class="img-fluid" alt="">
           </div>
 
         </div>
@@ -99,35 +105,31 @@
 
         <div class="row">
 
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="member">
               <div class="member-img">
                 <img src="foto prof.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Prof.Dr.Ir.H.Eddy Jusuf Sp,. M.Si., M.Kom.</h4>
-                <span>Ketua Dewan Pembina Yayasan</span>
+                <span>Pembina Yayasan</span>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-1 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100"></div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="member">
               <div class="member-img">
                 <img src="foto ibu yayasan.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Dr.Hj.Dewi Indriani,SE,MSi</h4>
-                <span>Ibu Ketua Yayasan</span>
+                <span>Ketua Yayasan</span>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-1 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100"></div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="member">
               <div class="member-img">
                 <img src="foto pa kepsek.jpg" class="img-fluid" alt="">
@@ -149,22 +151,22 @@
 
         <div class="section-title">
           <h2>GALERI</h2>
-          <p>Berikut beberapa kegiatan yang ada di SMKS MAHAPUTRA CERDAS UTAMA</p>
+          <p>Dibawah ini merupakan beberapa kegiatan yang ada di SMKS MAHAPUTRA CERDAS UTAMA</p>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="150">
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">Semua</li>
-              <li data-filter=".filter-app">Eskul</li>
-              <li data-filter=".filter-card">Osis</li>
+              <li data-filter=".filter-eskul">Eskul</li>
+              <li data-filter=".filter-osis">Osis</li>
             </ul>
           </div>
         </div>
 
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="300">
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="col-lg-4 col-md-6 portfolio-item">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/IMG_8038.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -178,7 +180,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+          <div class="col-lg-4 col-md-6 portfolio-item">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/DSC_0157.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -192,7 +194,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-osis">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/IMG_9413.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -200,55 +202,13 @@
                 <p>tanggal</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/IMG_9413.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                  <a href="view/ldks_detail.php" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="view/eskul.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/IMG_9416.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Porseni</h4>
-                <p>tangal</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/IMG_9416.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                  <a href="view/porseni_detail.php" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/IMG_9288.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Festival Film</h4>
-                <p>tanggal</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/IMG_9288.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                  <a href="view/festfilm_detail.php" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/IMG_8656.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Kunjungan Industri</h4>
-                <p>25 November 2021</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/IMG_8656.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                  <a href="view/kunjin_detail.php" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-osis">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/IMG_9651.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -256,21 +216,49 @@
                 <p>tanggal</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/IMG_9651.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                  <a href="view/porseni_detail.php" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="view/eskul.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-eskul">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/IMG_9548.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/263808168_121798320303267_7933296387273963865_n.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>LDKS</h4>
-                <p>tanggal</p>
+                <h4>Estrakulikuler</h4>
+                <p></p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/IMG_9548.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                  <a href="view/ldks_detail.php" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="assets/img/portfolio/263808168_121798320303267_7933296387273963865_n.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                  <a href="view/eskul.php" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-eskul">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/panahan.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Estrakulikuler</h4>
+                <p></p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/panahan.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                  <a href="view/eskul.php" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-eskul">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/281d7f51-5b74-417b-a02d-2b513639a327.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Estrakulikuler</h4>
+                <p></p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/281d7f51-5b74-417b-a02d-2b513639a327.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                  <a href="view/eskul.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -280,6 +268,10 @@
 
       </div>
     </section><!-- End Portfolio Section -->
+
+    <!-- Berita -->
+    
+    <!-- End Berita -->
 
     <!-- ======= Pricing Section ======= -->
     <section id="pricing" class="pricing">

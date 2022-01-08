@@ -35,10 +35,10 @@
         <ul>
           <li><i class="bx bx-chevron-right"></i> <a href="#hero">Beranda</a></li>
           <li><i class="bx bx-chevron-right"></i> <a href="#jurusan">Jurusan</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#about">Profile</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="#about">Profil</a></li>
           <li><i class="bx bx-chevron-right"></i> <a href="#galeri">Galeri</a></li>
           <li><i class="bx bx-chevron-right"></i> <a href="#news">Berita</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#contact">Contact</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="#footer">Kontak</a></li>
           <li><i class="bx bx-chevron-right"></i> <a href="#pricing">PPDB</a></li>
         </ul>
       </div>
