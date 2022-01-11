@@ -30,7 +30,7 @@ $hasil = mysqli_query($koneksi, $query);
   
 <body>
     
-<div class="container">
+<div class="container-fluid">
   <header class="blog-header py-3">
     <div class="row flex-nowrap justify-content-between align-items-center">
       <?php include 'view/header.php'; ?>
@@ -39,7 +39,7 @@ $hasil = mysqli_query($koneksi, $query);
   </header>
 </div>
 
-<main class="container mt-5">
+<main class="container-fluid mt-5">
   <div class="p-4 p-md-5 mb-4 text-white rounded bg-dark">
     <div class="col-md-6 px-0">
       <h1 class="display-4 fst-italic">Halaman Berita SMKS MAHAPUTRA CERDAS UTAMA</h1>
@@ -50,7 +50,7 @@ $hasil = mysqli_query($koneksi, $query);
 
   <div class="row mb-2">
     <?php foreach ($hasil as $key): ?>
-      <div class="col-md-6">
+      <div class="col-md-4">
         <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative" style="max-height: 250px;">
           <div class="col p-4 d-flex flex-column position-static">
             <strong class="d-inline-block mb-2 text-primary">World</strong>
@@ -69,7 +69,7 @@ $hasil = mysqli_query($koneksi, $query);
   </div>
 
   <div class="row g-5">
-    <div class="col-md-8">
+    <!-- <div class="col-md-8">
       <h3 class="pb-4 mb-4 fst-italic border-bottom">
         From the Firehose
       </h3>
@@ -194,7 +194,7 @@ $hasil = mysqli_query($koneksi, $query);
         <a class="btn btn-outline-secondary disabled">Newer</a>
       </nav>
 
-    </div>
+    </div> -->
 
     <!-- Sidebar -->
     <?php include 'view/sidebar.php'; ?>

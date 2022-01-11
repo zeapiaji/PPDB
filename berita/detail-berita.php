@@ -2,13 +2,16 @@
 
 include 'koneksi.php';
 
-$query = "SELECT * FROM berita";
+$id = $_GET['id'];
+
+$query = "SELECT * FROM `berita` WHERE `id_berita` = $id";
 
 $hasil = mysqli_query($koneksi, $query);
 
 $fetchHasil = mysqli_fetch_assoc($hasil);
 
 $tanggal = date('d F Y', strtotime($fetchHasil['tanggal']));
+
 ?>
 
 <?php include 'view/header.php'; ?>
@@ -22,7 +25,7 @@ $tanggal = date('d F Y', strtotime($fetchHasil['tanggal']));
           <h1 class="blog-post-title"><?php echo $fetchHasil['judul'] ?></h1>
           <p class="blog-post-meta"><?php echo $tanggal ?> by <a href="#">Mark</a></p>
 
-          <img src="https://blogpictures.99.co/film-anime-terbaik.png" style="width: 90rem;" class="img-fluid">
+          <img src="assets/img/berita/<?php echo $fetchHasil['gambar']?>" style="width: 90rem; height: auto;" class="img-fluid">
 
           <hr>
           <p style="white-space: pre-line;"><?php echo $fetchHasil['konten']; ?></p>
