@@ -5,7 +5,6 @@
 +-----------------------------+
  -->
 
-<div class="col-md-4">
   <div class="position-sticky" style="top: 5rem;">
     <div class="p-4 mb-3 bg-light rounded">
       <h4 class="fst-italic">Tentang halaman ini</h4>
@@ -39,4 +38,3 @@
       </ol>
     </div>
   </div>
-</div>

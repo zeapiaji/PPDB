@@ -2,9 +2,10 @@
 
 include 'koneksi.php';
 
-$query = "SELECT * FROM berita";
+$query = "SELECT * FROM `berita`";
 
 $hasil = mysqli_query($koneksi, $query);
+
 
 ?>
 
@@ -49,23 +50,29 @@ $hasil = mysqli_query($koneksi, $query);
   </div>
 
   <div class="row mb-2">
-    <?php foreach ($hasil as $key): ?>
-      <div class="col-md-4">
-        <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative" style="max-height: 250px;">
-          <div class="col p-4 d-flex flex-column position-static">
-            <strong class="d-inline-block mb-2 text-primary">World</strong>
-            <h3 class="mb-0"><?php echo $key['judul']; ?></h3>
-            <div class="mb-1 text-muted">Nov 12</div>
-            <p class="card-text mb-auto">Konten Disini</p>
-            <a href="master-detail-berita.php?id=<?php echo $key['id_berita'] ?>" class="stretched-link">Continue reading</a>
-          </div>
-          <div class="col-auto d-none d-lg-block">
-            <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
+    <div class="col-8">
+      <div class="row">
 
+        <?php foreach ($hasil as $key): 
+          // Format Tanggal
+          $tanggal = date('d F Y', strtotime($key['tanggal']));
+        ?>
+        <div class="col-6">
+          <div class="card mb-3">
+            <img src="assets/img/berita/<?php echo $key['gambar'] ?>" class="card-img-top" alt="gambar-<?php echo $key['id_berita'] ?>">
+            <div class="card-body">
+              <h5 class="card-title"><?php echo $key['judul'] ?></h5>
+              <h5 class="card-text text-muted"><?php echo $tanggal ?></h5>
+              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            </div>
           </div>
-        </div>
+         </div> 
+        <?php endforeach ?>
       </div>
-    <?php endforeach ?>
+    </div>
+    <div class="col-4">
+      <?php include 'view/sidebar.php'; ?>
+    </div>
   </div>
 
   <div class="row g-5">
@@ -197,7 +204,7 @@ $hasil = mysqli_query($koneksi, $query);
     </div> -->
 
     <!-- Sidebar -->
-    <?php include 'view/sidebar.php'; ?>
+    
 
   </div>
 
