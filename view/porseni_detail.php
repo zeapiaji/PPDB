@@ -5,16 +5,12 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>OnePage Bootstrap Template - Index</title>
+  <title>smksmahaputra.sch.id</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="../assets/img/favicon.png" rel="icon">
-  <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <link href="../assets/img/logo.png" rel="icon">
 
   <!-- Vendor CSS Files -->
   <link href="../assets/vendor/aos/aos.css" rel="stylesheet">
@@ -106,14 +102,6 @@
                   <img src="../assets/img/portfolio/IMG_9596.jpg" alt="">
                 </div>
 
-                <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/IMG_9405.jpg" alt="">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/IMG_9416.jpg" alt="">
-                </div>
-
               </div>
               <div class="swiper-pagination"></div>
             </div>
@@ -121,16 +109,16 @@
 
           <div class="col-lg-4">
             <div class="portfolio-info">
-              <h3>Kunjungan Industri</h3>
+              <h3>Porseni</h3>
               <ul>
-                <li><strong>Tempat</strong> : Trans Studio Bandung</li>
-                <li><strong>Waktu &nbsp&nbsp</strong>: 25 November 2021</li>
+                <li><strong>Tempat</strong> : SMKS Mahaputra Cerdas Utama </li>
+                <li><strong>Waktu &nbsp&nbsp</strong>: 20 & 21 Desember 2021</li>
               </ul>
             </div>
             <div class="portfolio-description">
-              <h2>Kunjungan Industri ke Trans Studio Bandung</h2>
+              <h2>Porseni</h2>
               <p>
-                Untuk kunjungan Industri tahun pelajaran 2021-2022, SMKS Mahaputra Cerdas Utama memilih Transcorp, sebuah perusahaan di bidang Televisi dan Industri Kreatif di Jakarta, dikarenakan Penerapan Pembatasan Kegiatan Masyarakat, maka kunjungan dilakukan ke Transcorp Cabang Bandung yang berlokasi di Trans Studio Jl. Gatot Subroto No 289 Kota Bandung. Adapun materi yang disampaikan oleh pihak industri adalah “Teknologi Informasi” yang merupakan rumpun dari Multimedia dan Rekayasa Perangkat Lunak.
+                Porseni merupakan singkatan dari Pentas Olahraga dan Seni. Acara Porseni ini diadakan oleh petugas OSIS SMKS MAHAPUTRA CERDAS UTAMA. Tujuan dari Porseni ini adalah untuk menyalurkan bakat dan minat siswa di bidangnya masing-masing. Ada beberapa bidang lomba yang diadakan di acara Porseni ini, seperti bidang olahraga, kesenian, dan e-sport. 
               </p>
             </div>
           </div>

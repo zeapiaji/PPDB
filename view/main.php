@@ -37,7 +37,7 @@
 
         <div class="row">
 
-          <div id="rpl" class="col-lg-6 pt-lg-0 content" data-aos="fade-left" data-aos-delay="100">
+          <div id="rpl" class="col-lg-6 pt-lg-0 content" data-aos="fade-right" data-aos-delay="100">
             <h3>Rekayasa Perangkat Lunak</h3>
             <p>
               Rekayasa Perangkat Lunak merupakan sebuah jurusan yang ada di Sekolah Menengah Kejuruan (SMK).Bukan hanya itu, RPL juga berkaitan dengan software komputer mulai dari pembuatan website, aplikasi, game dan semua yang berkaitan dengan pemrograman dengan menguasai bahasa pemrograman tersebut.
@@ -53,7 +53,7 @@
           </div>
 
 
-          <div class="col-lg-6 video-box align-self-baseline" data-aos="fade-right" data-aos-delay="100">
+          <div class="col-lg-6 video-box align-self-baseline" data-aos="fade-left" data-aos-delay="100">
             <img src="assets/img/portfolio/de38f358-53ce-4974-8b51-77b2535bad36.jpg" style="width: 100%; height: 330px;" class="img-fluid" alt="">
           </div>
 
@@ -74,7 +74,7 @@
         </div>
 
         <div class="row content about-video">
-          <div class="col-lg-6 pt-4 pt-lg-0">
+          <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-right" data-aos-delay="100">
               <b>Visi</b> <br>
               Menjadi penyelenggara pendidikan kejuruan berkarakter religius, yang melahirkan tenaga ahli, terampil, kreatif, inovatif, dan berpengetahuan yang ramah lingkungan di tahun 2025.
               <br>
@@ -86,7 +86,7 @@
               5.Menjalin kerjasama kerjasama dengan lembaga akademik dan non akademik ditingkat lokal, nasional, dan internasioanal
             </p>
           </div>
-          <div class="col-lg-6 video-box align-self-baseline" data-aos="fade-right" data-aos-delay="100">
+          <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
             <p>SMKS Mahaputra Cerdas Utama didirikan pada 22 Agustus tahun 2016, adalah salah satu SMK swasta yang ada di Kabupaten Bandung yang memiliki program study Multimedia (MM) dan Rekyasa Perangkat Lunak (RPL), menjadi sekolah pertama di Kabupaten Bandung dengan Konsep Green School atau Sekolah Hijau yang ramah lingkungan SMKS Mahaputra Cerdas Utama berkomitmen untuk mencetak Sumber Daya Manusia (SDM) yang unggul di era 4.0.</p>
           </div>
         </div>
@@ -105,7 +105,7 @@
 
         <div class="row">
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="member">
               <div class="member-img">
                 <img src="foto prof.jpg" class="img-fluid" alt="">
@@ -117,7 +117,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="member">
               <div class="member-img">
                 <img src="foto ibu yayasan.jpg" class="img-fluid" alt="">
@@ -185,7 +185,7 @@
               <img src="assets/img/portfolio/DSC_0157.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Festival Film</h4>
-                <p>tgl</p>
+                <p>11 November 2021</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/DSC_0157.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                   <a href="view/festfilm_detail.php" title="More Details"><i class="bx bx-link"></i></a>
@@ -199,10 +199,10 @@
               <img src="assets/img/portfolio/IMG_9413.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>LDKS</h4>
-                <p>tanggal</p>
+                <p>16 Desember 2021</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/IMG_9413.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                  <a href="view/eskul.php" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="view/ldks_detail.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -213,10 +213,10 @@
               <img src="assets/img/portfolio/IMG_9651.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Porseni</h4>
-                <p>tanggal</p>
+                <p>20 & 21 Desember 2021</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/IMG_9651.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                  <a href="view/eskul.php" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="view/porseni_detail.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>

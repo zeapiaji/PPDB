@@ -5,16 +5,12 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>OnePage Bootstrap Template - Index</title>
+  <title>smksmahaputra.sch.id</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="../assets/img/favicon.png" rel="icon">
-  <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <link href="../assets/img/logo.png" rel="icon">
 
   <!-- Vendor CSS Files -->
   <link href="../assets/vendor/aos/aos.css" rel="stylesheet">
@@ -129,16 +125,16 @@
 
           <div class="col-lg-4">
             <div class="portfolio-info">
-              <h3>Festival Film</h3>
+              <h3>LDKS</h3>
               <ul>
                 <li><strong>Tempat</strong> : SMKS Mahaputra Cerdas Utama</li>
-                <li><strong>Waktu &nbsp&nbsp</strong>: GATAU</li>
+                <li><strong>Waktu &nbsp&nbsp</strong>: 16 Desember 2021</li>
               </ul>
             </div>
             <div class="portfolio-description">
-              <h2>Festival Film</h2>
+              <h2>LDKS</h2>
               <p>
-                festivalshldkhgdvhroedklfvnfervwopaj;fifrheoughesnlskdmzxkzidfuhysmliuhygtfrdeswedrtfgyhunjimjbkjblkzcbvoighioncoiojfaklmskfshzncnnmcnbknrhgiioruojroiheiutyjsnsnmmcnigndlkgkadhywwtdngmxnjhuhsfnnkjhit n khiudighkdhgkshghgkeshgifbgs
+                Latihan Dasar Kepemimpinan Siswa merupakan sebuah pelatihan dasar yang bertujuan untuk memberikan bekal kepemimpinan kepada Pengurus OSIS baru. Di acara ini juga diberikan beberapa materi seperti materi berorganisasi, materi berkomunikasi, pemecahan masalah, dan juga ada beberapa game untuk membentuk kerjasama & kekompakan kelompok.
               </p>
             </div>
           </div>

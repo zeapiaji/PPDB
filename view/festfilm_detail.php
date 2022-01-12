@@ -5,16 +5,12 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>OnePage Bootstrap Template - Index</title>
+  <title>smksmahaputra.sch.id</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="../assets/img/favicon.png" rel="icon">
-  <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <link href="../assets/img/logo.png" rel="icon">
 
   <!-- Vendor CSS Files -->
   <link href="../assets/vendor/aos/aos.css" rel="stylesheet">
@@ -120,13 +116,13 @@
               <h3>Festival Film</h3>
               <ul>
                 <li><strong>Tempat</strong> : SMKS Mahaputra Cerdas Utama</li>
-                <li><strong>Waktu &nbsp&nbsp</strong>: GATAU</li>
+                <li><strong>Waktu &nbsp&nbsp</strong>: 11 November 2021</li>
               </ul>
             </div>
             <div class="portfolio-description">
               <h2>Festival Film</h2>
               <p>
-                festivalshldkhgdvhroedklfvnfervwopaj;fifrheoughesnlskdmzxkzidfuhysmliuhygtfrdeswedrtfgyhunjimjbkjblkzcbvoighioncoiojfaklmskfshzncnnmcnbknrhgiioruojroiheiutyjsnsnmmcnigndlkgkadhywwtdngmxnjhuhsfnnkjhit n khiudighkdhgkshghgkeshgifbgs
+                Mahaputra Movie Festival 2021 yang dihadiri oleh Guru Tamu Industri yaitu DERRY FRASETiA, S.M (Profesional Videographer) dan juga menampilkan 8 film terbaik karya sineas muda SMKS MAHAPUTRA CERDAS UTAMA.
               </p>
             </div>
           </div>
