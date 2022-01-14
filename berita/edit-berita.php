@@ -1,7 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
+
+<?php include 'berita/koneksi.php';
+
+$id = $_GET['id'];
+
+$query = "SELECT * FROM `berita` WHERE id_berita = $id";
+
+$hasil = mysqli_query($koneksi, $query);
+
+$fetchHasil = mysqli_fetch_assoc($hasil);
+?>
+
 <body>
-  <form action="berita/controller/proses-berita.php" method="POST" enctype="multipart/form-data" class="needs-validation" novalidate>
+  <form action="berita/controller/proses-edit-berita.php" method="POST" enctype="multipart/form-data" class="needs-validation" novalidate>
     <div class="container p-5">
       <div class="card"> 
         <div class="row g-0">
@@ -11,7 +23,8 @@
                 <tr>
                   <td class="align-middle p-5">
                     <label class="form-label" for="inputGambar">Gambar</label>
-                    <input class="form-control" name="gambar" id="inputGambar" type="file" required>
+                    <input class="form-control" name="gambar" id="inputGambar" type="file">
+                    <input class="form-control" name="ambilGambar" value="<?php echo $fetchHasil['gambar']?>" type="hidden">
                     <div class="invalid-feedback">
                       Masukan Gambar untuk Berita
                     </div>
@@ -23,22 +36,23 @@
           <div class="col-md-8">
             <div class="card-body p-4">
               <div class="card-title">
+                <input type="text" class="form-control" value="<?php echo $fetchHasil['id_berita']?>" name="id" id="judul" placeholder="Masukan Judul" hidden required>
                 <label for="judul">Judul</label>
-                <input type="text" class="form-control" name="judul" id="judul" placeholder="Masukan Judul" required>
+                <input type="text" class="form-control" value="<?php echo $fetchHasil['judul']?>" name="judul" id="judul" placeholder="Masukan Judul" required>
                 <div class="invalid-feedback">
                   Masukan Judul untuk Berita
                 </div>
               </div>
               <div class="card-title mt-3">
                 <label for="tanggal">Tanggal</label>
-                <input type="date" class="form-control" style="max-width: 200px ;" name="tanggal" id="tanggal" placeholder="Masukan Tanggal" required>
+                <input type="date" class="form-control" style="max-width: 200px ;" value="<?php echo $fetchHasil['tanggal']?>" name="tanggal" id="tanggal" placeholder="Masukan Tanggal" required>
                 <div class="invalid-feedback">
                   Masukan Tanggal untuk Berita
                 </div>
               </div>
               <p class="card-text mt-4">
                 <label for="konten">Konten</label>
-                <textarea class="form-control" name="konten" id="konten" rows="9" placeholder="Masukan Berita/Konten" required></textarea>
+                <textarea class="form-control" name="konten" id="konten" rows="9" placeholder="Masukan Berita/Konten" required><?php echo $fetchHasil['konten']?></textarea>
                 <div class="invalid-feedback">
                   Masukan Konten untuk Berita
                 </div>
