@@ -2,9 +2,10 @@
 
 include 'koneksi.php';
 
-$query = "SELECT * FROM berita";
+$query = "SELECT * FROM `berita`";
 
 $hasil = mysqli_query($koneksi, $query);
+
 
 ?>
 
@@ -50,6 +51,7 @@ $hasil = mysqli_query($koneksi, $query);
       
 
   <div class="row mb-2">
+<<<<<<< HEAD
     <?php foreach ($hasil as $key): ?>
       <div class="col-md-4">
         <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative" style="max-height: 250px;">
@@ -65,10 +67,31 @@ $hasil = mysqli_query($koneksi, $query);
           </div>
           <div class="col-auto d-none d-lg-block p-1">
            <img src="assets/img/berita/<?php echo $key['gambar']?>" style="height: 213px;" alt="">
+=======
+    <div class="col-8">
+      <div class="row">
+
+        <?php foreach ($hasil as $key): 
+          // Format Tanggal
+          $tanggal = date('d F Y', strtotime($key['tanggal']));
+        ?>
+        <div class="col-6">
+          <div class="card mb-3">
+            <img src="assets/img/berita/<?php echo $key['gambar'] ?>" class="card-img-top" alt="gambar-<?php echo $key['id_berita'] ?>">
+            <div class="card-body">
+              <h5 class="card-title"><?php echo $key['judul'] ?></h5>
+              <h5 class="card-text text-muted"><?php echo $tanggal ?></h5>
+              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            </div>
+>>>>>>> 0138a7e36fb2c56b559b491fd9c8957a885d66ee
           </div>
-        </div>
+         </div> 
+        <?php endforeach ?>
       </div>
-    <?php endforeach ?>
+    </div>
+    <div class="col-4">
+      <?php include 'view/sidebar.php'; ?>
+    </div>
   </div>
 
   <div class="row g-5">
@@ -200,7 +223,7 @@ $hasil = mysqli_query($koneksi, $query);
     </div> -->
     
     <!-- Sidebar -->
-    <?php include 'view/sidebar.php'; ?>
+    
 
   </div>
 
