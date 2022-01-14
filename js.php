@@ -8,9 +8,7 @@
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
 
   <!-- Template Main JS File -->
-<<<<<<< HEAD
   <script src="assets/js/main.js"></script>
-=======
   <script src="assets/js/main.js"></script>
 
   <!-- News -->
@@ -18,4 +16,3 @@
   <script src="assets/js/plugins.js"></script>
   <script src="assets/js/jquery.appear.js"></script>
   <script src="assets/js/main-news.js"></script>
->>>>>>> 4edca149582828a28f279c44948465d9f984a2fc

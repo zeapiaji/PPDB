@@ -69,7 +69,6 @@
 
         <div class="row content about-video">
           <div class="col-lg-6 pt-4 pt-lg-0">
-<<<<<<< HEAD
               <b>Visi</b> <br>
               Menjadi penyelenggara pendidikan kejuruan berkarakter religius, yang melahirkan tenaga ahli, terampil, kreatif, inovatif, dan berpengetahuan yang ramah lingkungan di tahun 2025.
               <br>
@@ -79,10 +78,8 @@
               3.Mewujudkan tenaga terampil, kreatif, inovatif, dan berpengetahuan.
               4.Membangun perilaku yang peduli terhdap lingkungan.
               5.Menjalin kerjasama kerjasama dengan lembaga akademik dan non akademik ditingkat lokal, nasional, dan internasioanal
-=======
             <p class="fs-4">
             SMKS Mahaputra Cerdas Utama didirikan pada 22 Agustus tahun 2016, adalah salah satu SMK swasta yang ada di Kabupaten Bandung yang memiliki program studi Multimedia (MM) dan Rekyasa Perangkat Lunak (RPL), menjadi sekolah pertama di Kabupaten Bandung dengan Konsep Green School atau Sekolah Hijau yang ramah lingkungan SMKS Mahaputra Cerdas Utama berkomitmen untuk mencetak Sumber Daya Manusia (SDM) yang unggul di era 4.0.
->>>>>>> 4edca149582828a28f279c44948465d9f984a2fc
             </p>
           </div>
           <div class="col-lg-6 video-box align-self-baseline" data-aos="fade-right" data-aos-delay="100">
@@ -93,7 +90,6 @@
       </div>
     </section><!-- End About Section -->
 
-<<<<<<< HEAD
    <!-- ======= Team Section ======= -->
     <section id="team" class="team section-bg">
       <div class="container" data-aos="fade-up">
@@ -101,7 +97,6 @@
         <div class="section-title">
           <h2>PARA PENDIRI SMKS MAHAPUTRA CERDAS UTAMA</h2>
           <p>Berikut ini adalah para pendiri SMKS MAHAPUTRA CERDAS UTAMA </p>
-=======
     <!-- ======= Counts Section ======= -->
     <section id="counts" class="counts section-bg">
       <div class="container">
@@ -122,7 +117,6 @@
         <div class="section-title">
           <h2>Team</h2>
           <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
->>>>>>> 4edca149582828a28f279c44948465d9f984a2fc
         </div>
 
         <div class="row">
@@ -130,13 +124,11 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="member">
               <div class="member-img">
-<<<<<<< HEAD
                 <img src="foto prof.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Prof.Dr.Ir.H.Eddy Jusuf Sp,. M.Si., M.Kom.</h4>
                 <span>Ketua Dewan Pembina Yayasan</span>
-=======
                 <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
@@ -148,14 +140,12 @@
               <div class="member-info">
                 <h4>Walter White</h4>
                 <span>Chief Executive Officer</span>
->>>>>>> 4edca149582828a28f279c44948465d9f984a2fc
               </div>
             </div>
           </div>
 
-<<<<<<< HEAD
           <div class="col-lg-1 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100"></div>
-=======
+
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="member">
               <div class="member-img">
@@ -173,18 +163,15 @@
               </div>
             </div>
           </div>
->>>>>>> 4edca149582828a28f279c44948465d9f984a2fc
 
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="member">
               <div class="member-img">
-<<<<<<< HEAD
                 <img src="foto ibu yayasan.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Dr.Hj.Dewi Indriani,SE,MSi</h4>
                 <span>Ibu Ketua Yayasan</span>
-=======
                 <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
@@ -196,12 +183,10 @@
               <div class="member-info">
                 <h4>William Anderson</h4>
                 <span>CTO</span>
->>>>>>> 4edca149582828a28f279c44948465d9f984a2fc
               </div>
             </div>
           </div>
 
-<<<<<<< HEAD
           <div class="col-lg-1 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100"></div>
 
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
@@ -215,7 +200,6 @@
               </div>
             </div>
           </div>
-=======
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
             <div class="member">
               <div class="member-img">
@@ -234,14 +218,11 @@
             </div>
           </div>
 
->>>>>>> 4edca149582828a28f279c44948465d9f984a2fc
         </div>
 
       </div>
     </section><!-- End Team Section -->
 
-<<<<<<< HEAD
-=======
     <!-- ======= Services Section ======= -->
     <!-- <section id="services" class="services section-bg">
       <div class="container" data-aos="fade-up">
@@ -335,7 +316,6 @@
       </div>
     </section> --><!-- End Sevices Section -->
 
->>>>>>> 4edca149582828a28f279c44948465d9f984a2fc
     <!-- ======= Portfolio Section ======= -->
     <section id="galeri" class="portfolio">
       <div class="container" data-aos="fade-up">
@@ -359,7 +339,6 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-<<<<<<< HEAD
               <img src="assets/img/portfolio/IMG_8038.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Kunjungan Industri</h4>
@@ -367,7 +346,6 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/IMG_8038.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                   <a href="view/kunjin_detail.php" title="More Details"><i class="bx bx-link"></i></a>
-=======
               <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>App 1</h4>
@@ -375,7 +353,6 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
->>>>>>> 4edca149582828a28f279c44948465d9f984a2fc
                 </div>
               </div>
             </div>
@@ -383,7 +360,6 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-<<<<<<< HEAD
               <img src="assets/img/portfolio/DSC_0157.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Festival Film</h4>
@@ -391,7 +367,6 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/DSC_0157.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                   <a href="view/festfilm_detail.php" title="More Details"><i class="bx bx-link"></i></a>
-=======
               <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Web 3</h4>
@@ -399,7 +374,6 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
->>>>>>> 4edca149582828a28f279c44948465d9f984a2fc
                 </div>
               </div>
             </div>
@@ -407,7 +381,6 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-<<<<<<< HEAD
               <img src="assets/img/portfolio/IMG_9413.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>LDKS</h4>
@@ -415,7 +388,6 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/IMG_9413.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                   <a href="view/ldks_detail.php" title="More Details"><i class="bx bx-link"></i></a>
-=======
               <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>App 2</h4>
@@ -423,7 +395,6 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
->>>>>>> 4edca149582828a28f279c44948465d9f984a2fc
                 </div>
               </div>
             </div>
@@ -431,7 +402,6 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-<<<<<<< HEAD
               <img src="assets/img/portfolio/IMG_9416.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Porseni</h4>
@@ -439,7 +409,6 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/IMG_9416.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                   <a href="view/porseni_detail.php" title="More Details"><i class="bx bx-link"></i></a>
-=======
               <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Card 2</h4>
@@ -447,7 +416,6 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
->>>>>>> 4edca149582828a28f279c44948465d9f984a2fc
                 </div>
               </div>
             </div>
@@ -455,7 +423,6 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-<<<<<<< HEAD
               <img src="assets/img/portfolio/IMG_9288.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Festival Film</h4>
@@ -463,7 +430,6 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/IMG_9288.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                   <a href="view/festfilm_detail.php" title="More Details"><i class="bx bx-link"></i></a>
-=======
               <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Web 2</h4>
@@ -471,7 +437,6 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
->>>>>>> 4edca149582828a28f279c44948465d9f984a2fc
                 </div>
               </div>
             </div>
@@ -479,7 +444,6 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-<<<<<<< HEAD
               <img src="assets/img/portfolio/IMG_8656.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Kunjungan Industri</h4>
@@ -487,7 +451,6 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/IMG_8656.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                   <a href="view/kunjin_detail.php" title="More Details"><i class="bx bx-link"></i></a>
-=======
               <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>App 3</h4>
@@ -495,7 +458,6 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
->>>>>>> 4edca149582828a28f279c44948465d9f984a2fc
                 </div>
               </div>
             </div>
@@ -503,7 +465,6 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-<<<<<<< HEAD
               <img src="assets/img/portfolio/IMG_9651.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Porseni</h4>
@@ -511,7 +472,6 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/IMG_9651.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                   <a href="view/porseni_detail.php" title="More Details"><i class="bx bx-link"></i></a>
-=======
               <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Card 1</h4>
@@ -519,7 +479,6 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
->>>>>>> 4edca149582828a28f279c44948465d9f984a2fc
                 </div>
               </div>
             </div>
@@ -527,7 +486,6 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-<<<<<<< HEAD
               <img src="assets/img/portfolio/IMG_9548.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>LDKS</h4>
@@ -535,7 +493,6 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/IMG_9548.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                   <a href="view/ldks_detail.php" title="More Details"><i class="bx bx-link"></i></a>
-=======
               <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Card 3</h4>
@@ -557,7 +514,6 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
->>>>>>> 4edca149582828a28f279c44948465d9f984a2fc
                 </div>
               </div>
             </div>
@@ -626,11 +582,8 @@
     </section><!-- End Pricing Section -->
 
     <!-- ======= Pricing Section ======= -->
-<<<<<<< HEAD
     <section id="pricing" class="pricing" style="padding-top: 0px;">
-=======
     <section id="pricing" class="pricing">
->>>>>>> 4edca149582828a28f279c44948465d9f984a2fc
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -709,11 +662,9 @@
       </div>
     </section><!-- End Pricing Section -->
 
-<<<<<<< HEAD
     <!-- ======= Contact Section ======= -->
     <!-- <section id="contact" class="contact">
-=======
-    <!-- ======= Frequently Asked Questions Section ======= -->
+    ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq section-bg">
       <div class="container" data-aos="fade-up">
 
@@ -797,10 +748,7 @@
         </div>
 
       </div>
-<<<<<<< HEAD
     </section> --><!-- End Contact Section -->
-=======
     </section><!-- End Contact Section -->
->>>>>>> 4edca149582828a28f279c44948465d9f984a2fc
 
   </main><!-- End #main -->
