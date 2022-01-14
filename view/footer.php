@@ -5,6 +5,7 @@
   <div class="container">
     <div class="row">
 
+<<<<<<< HEAD
       <div class="col-lg-4 col-md-6 footer-contact">
         <h3>SMKS MAHAPUTRA CERDAS UTAMA</h3>
           <div class="contact">
@@ -34,6 +35,19 @@
         <h4>Useful Links</h4>
         <ul>
           <li><i class="bx bx-chevron-right"></i> <a href="#hero">Beranda</a></li>
+=======
+      <div class="col-lg-3 col-md-6 footer-contact">
+        <h3>SMKS MAHAPUTRA CERDAS UTAMA</h3>
+        <p>
+          Jl. Katapang-Andir Km. 4 Kp. Pasantren Desa Sukamukti Kec. Katapang, Kab. Bandung<br><br>
+        </p>
+      </div>
+
+      <div class="col-lg-3 col-md-6 footer-links mx-5">
+        <h4>Useful Links</h4>
+        <ul>
+          <li><i class="bx bx-chevron-right"></i> <a href="index.php/">Beranda</a></li>
+>>>>>>> 4edca149582828a28f279c44948465d9f984a2fc
           <li><i class="bx bx-chevron-right"></i> <a href="#jurusan">Jurusan</a></li>
           <li><i class="bx bx-chevron-right"></i> <a href="#about">Profile</a></li>
           <li><i class="bx bx-chevron-right"></i> <a href="#galeri">Galeri</a></li>
@@ -43,6 +57,7 @@
         </ul>
       </div>
 
+<<<<<<< HEAD
       <div class="col-lg-2 col-md-6 footer-newsletter">
         <h4 style="margin-bottom: -10px; font-size: 16px; color: #124265;">Jam Kerja</h4>
         <br>
@@ -62,6 +77,17 @@
         <div>
           <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.0968208910313!2d107.57727271477331!3d-6.997878494944868!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e94c27f4ee2f%3A0x5cff6a44153d50b4!2sSMK%20Mahaputra%20Cerdas%20Utama%20.%20Yayasan%20Mahaputra!5e0!3m2!1sid!2sid!4v1640333211954!5m2!1sid!2sid" frameborder="0" allowfullscreen></iframe>
         </div>
+=======
+      <div class="col-lg-4 col-md-6 footer-newsletter">
+        <h4 style="margin-bottom: -10px;">Senin s.d Jumat</h4>
+        <p>Pukul 08.00 - 16.00 WIB</p>
+
+        <h4 style="margin-bottom: -10px;">Sabtu</h4>
+        <p>Pukul 09.00 - 15.00 WIB</p>
+
+        <h4 style="margin-bottom: -10px;">Minggu / Tanggal Merah</h4>
+        <p>Libur</p>
+>>>>>>> 4edca149582828a28f279c44948465d9f984a2fc
       </div>
 
     </div>
@@ -72,7 +98,11 @@
 
   <div class="me-md-auto text-center text-md-start">
     <div class="copyright">
+<<<<<<< HEAD
       &copy; Copyright <strong><span>SMKS MAHAPUTRA CERDAS UTAMA</span></strong>. All Rights Reserved
+=======
+      &copy; Copyright <strong><span>SMK MAHAPUTRA CERDAS UTAMA</span></strong>. All Rights Reserved
+>>>>>>> 4edca149582828a28f279c44948465d9f984a2fc
     </div>
     <div class="credits">
       <!-- All the links in the footer should remain intact. -->
