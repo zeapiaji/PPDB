@@ -19,6 +19,7 @@
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
+  <link href="assets/css/costum.css" rel="stylesheet">
   <!-- =======================================================
   * Template Name: OnePage - v4.6.0
   * Template URL: https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/
