@@ -5,12 +5,24 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
+<<<<<<< HEAD
   <title>smksmahaputra.sch.id</title>
+=======
+  <title>OnePage Bootstrap Template - Index</title>
+>>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
+<<<<<<< HEAD
   <link href="../assets/img/logo.png" rel="icon">
+=======
+  <link href="../assets/img/favicon.png" rel="icon">
+  <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+>>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8
 
   <!-- Vendor CSS Files -->
   <link href="../assets/vendor/aos/aos.css" rel="stylesheet">
@@ -125,6 +137,7 @@
 
           <div class="col-lg-4">
             <div class="portfolio-info">
+<<<<<<< HEAD
               <h3>LDKS</h3>
               <ul>
                 <li><strong>Tempat</strong> : SMKS Mahaputra Cerdas Utama</li>
@@ -135,6 +148,18 @@
               <h2>LDKS</h2>
               <p>
                 Latihan Dasar Kepemimpinan Siswa merupakan sebuah pelatihan dasar yang bertujuan untuk memberikan bekal kepemimpinan kepada Pengurus OSIS baru. Di acara ini juga diberikan beberapa materi seperti materi berorganisasi, materi berkomunikasi, pemecahan masalah, dan juga ada beberapa game untuk membentuk kerjasama & kekompakan kelompok.
+=======
+              <h3>Festival Film</h3>
+              <ul>
+                <li><strong>Tempat</strong> : SMKS Mahaputra Cerdas Utama</li>
+                <li><strong>Waktu &nbsp&nbsp</strong>: GATAU</li>
+              </ul>
+            </div>
+            <div class="portfolio-description">
+              <h2>Festival Film</h2>
+              <p>
+                festivalshldkhgdvhroedklfvnfervwopaj;fifrheoughesnlskdmzxkzidfuhysmliuhygtfrdeswedrtfgyhunjimjbkjblkzcbvoighioncoiojfaklmskfshzncnnmcnbknrhgiioruojroiheiutyjsnsnmmcnigndlkgkadhywwtdngmxnjhuhsfnnkjhit n khiudighkdhgkshghgkeshgifbgs
+>>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8
               </p>
             </div>
           </div>

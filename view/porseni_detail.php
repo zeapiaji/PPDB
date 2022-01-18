@@ -5,12 +5,24 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
+<<<<<<< HEAD
   <title>smksmahaputra.sch.id</title>
+=======
+  <title>OnePage Bootstrap Template - Index</title>
+>>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
+<<<<<<< HEAD
   <link href="../assets/img/logo.png" rel="icon">
+=======
+  <link href="../assets/img/favicon.png" rel="icon">
+  <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+>>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8
 
   <!-- Vendor CSS Files -->
   <link href="../assets/vendor/aos/aos.css" rel="stylesheet">
@@ -102,6 +114,17 @@
                   <img src="../assets/img/portfolio/IMG_9596.jpg" alt="">
                 </div>
 
+<<<<<<< HEAD
+=======
+                <div class="swiper-slide">
+                  <img src="../assets/img/portfolio/IMG_9405.jpg" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="../assets/img/portfolio/IMG_9416.jpg" alt="">
+                </div>
+
+>>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8
               </div>
               <div class="swiper-pagination"></div>
             </div>
@@ -109,6 +132,7 @@
 
           <div class="col-lg-4">
             <div class="portfolio-info">
+<<<<<<< HEAD
               <h3>Porseni</h3>
               <ul>
                 <li><strong>Tempat</strong> : SMKS Mahaputra Cerdas Utama </li>
@@ -119,6 +143,18 @@
               <h2>Porseni</h2>
               <p>
                 Porseni merupakan singkatan dari Pentas Olahraga dan Seni. Acara Porseni ini diadakan oleh petugas OSIS SMKS MAHAPUTRA CERDAS UTAMA. Tujuan dari Porseni ini adalah untuk menyalurkan bakat dan minat siswa di bidangnya masing-masing. Ada beberapa bidang lomba yang diadakan di acara Porseni ini, seperti bidang olahraga, kesenian, dan e-sport. 
+=======
+              <h3>Kunjungan Industri</h3>
+              <ul>
+                <li><strong>Tempat</strong> : Trans Studio Bandung</li>
+                <li><strong>Waktu &nbsp&nbsp</strong>: 25 November 2021</li>
+              </ul>
+            </div>
+            <div class="portfolio-description">
+              <h2>Kunjungan Industri ke Trans Studio Bandung</h2>
+              <p>
+                Untuk kunjungan Industri tahun pelajaran 2021-2022, SMKS Mahaputra Cerdas Utama memilih Transcorp, sebuah perusahaan di bidang Televisi dan Industri Kreatif di Jakarta, dikarenakan Penerapan Pembatasan Kegiatan Masyarakat, maka kunjungan dilakukan ke Transcorp Cabang Bandung yang berlokasi di Trans Studio Jl. Gatot Subroto No 289 Kota Bandung. Adapun materi yang disampaikan oleh pihak industri adalah “Teknologi Informasi” yang merupakan rumpun dari Multimedia dan Rekayasa Perangkat Lunak.
+>>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8
               </p>
             </div>
           </div>

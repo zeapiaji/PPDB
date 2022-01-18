@@ -4,6 +4,7 @@ include 'koneksi.php';
 
 $id = $_GET['id'];
 
+<<<<<<< HEAD
 
 // Counter Pengunjung
 $query              = "SELECT * FROM `berita` WHERE `id_berita` = $id";
@@ -34,6 +35,15 @@ $fetchHasil         = mysqli_fetch_assoc($hasil);
 // Format Tanggal 
 $tanggal = date('d F Y', strtotime($fetchHasil['tanggal']));
 // /.Format Tanggal
+=======
+$query = "SELECT * FROM `berita` WHERE `id_berita` = $id";
+
+$hasil = mysqli_query($koneksi, $query);
+
+$fetchHasil = mysqli_fetch_assoc($hasil);
+
+$tanggal = date('d F Y', strtotime($fetchHasil['tanggal']));
+>>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8
 
 ?>
 
@@ -43,6 +53,7 @@ $tanggal = date('d F Y', strtotime($fetchHasil['tanggal']));
 <main class="container" style="margin-top: 6rem;">
   <div class="row g-5">
       <div class="col-md-8">
+<<<<<<< HEAD
         <article class="blog-post">
           <div class="mb-4">
             <div class="blog-post-title col-12 mb-3"><h3 class="fw-bolder"><?php echo $fetchHasil['judul'] ?></h3></div>
@@ -51,10 +62,17 @@ $tanggal = date('d F Y', strtotime($fetchHasil['tanggal']));
               <div class="col-6"><i class="bi bi-eye"></i> <?php echo $fetchHasil['pengunjung']; ?></div>
             </div>
           </div>  
+=======
+
+        <article class="blog-post">
+          <h1 class="blog-post-title"><?php echo $fetchHasil['judul'] ?></h1>
+          <p class="blog-post-meta"><div style="font-size: 2vh;">SMK MAHAPUTRA -<?php echo $tanggal ?></a></div></p>
+>>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8
 
           <img src="assets/img/berita/<?php echo $fetchHasil['gambar']?>" style="width: 90rem; height: auto;" class="img-fluid">
 
           <hr>
+<<<<<<< HEAD
           <p style="white-space: pre-line;"><?php echo $fetchHasil['konten']; ?></p>
 
         </article>
@@ -90,3 +108,16 @@ $tanggal = date('d F Y', strtotime($fetchHasil['tanggal']));
   </div>
 </div>
 </footer>
+=======
+          <p>Penulis : Zea Pioji</p>
+          <p style="white-space: pre-line;"><?php echo $fetchHasil['konten']; ?></p>
+        </article>  
+         
+
+      </div>
+
+      <!-- Sidebar -->
+      <?php include 'view/sidebar.php'; ?>
+
+    </div>
+>>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8

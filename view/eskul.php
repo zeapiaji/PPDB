@@ -92,6 +92,7 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
+<<<<<<< HEAD:view/eskul.php
                   <img src="../assets/img/portfolio/281d7f51-5b74-417b-a02d-2b513639a327.jpg" alt="">
                 </div>
 
@@ -101,6 +102,21 @@
 
                 <div class="swiper-slide">
                   <img src="../assets/img/portfolio/263808168_121798320303267_7933296387273963865_n.jpg" alt="">
+=======
+                  <img src="../assets/img/portfolio/DSC_0095.jpg" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="../assets/img/portfolio/DSC_0121.jpg" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="../assets/img/portfolio/IMG_9212.jpg" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="../assets/img/portfolio/IMG_9222.jpg" alt="">
+>>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8:view/festfilm_detail.php
                 </div>
 
               </div>
@@ -110,6 +126,7 @@
 
           <div class="col-lg-4">
             <div class="portfolio-info">
+<<<<<<< HEAD:view/eskul.php
               <h3>Ekstrakulikuler</h3>  
             </div>
             <div class="portfolio-description">
@@ -124,6 +141,18 @@
                   <li>Rohis</li>
                   <li>Fotografi</li>
                 </ul>
+=======
+              <h3>Festival Film</h3>
+              <ul>
+                <li><strong>Tempat</strong> : SMKS Mahaputra Cerdas Utama</li>
+                <li><strong>Waktu &nbsp&nbsp</strong>: GATAU</li>
+              </ul>
+            </div>
+            <div class="portfolio-description">
+              <h2>Festival Film</h2>
+              <p>
+                festivalshldkhgdvhroedklfvnfervwopaj;fifrheoughesnlskdmzxkzidfuhysmliuhygtfrdeswedrtfgyhunjimjbkjblkzcbvoighioncoiojfaklmskfshzncnnmcnbknrhgiioruojroiheiutyjsnsnmmcnigndlkgkadhywwtdngmxnjhuhsfnnkjhit n khiudighkdhgkshghgkeshgifbgs
+>>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8:view/festfilm_detail.php
               </p>
             </div>
           </div>
@@ -189,6 +218,7 @@
 
           <h4 style="margin-bottom: -10px; font-size: 16px;">Sabtu</h4>
           <p style="font-size: 14px;">Pukul 09.00 - 15.00 WIB</p>
+<<<<<<< HEAD:view/eskul.php
 
           <h4 style="margin-bottom: -10px; font-size: 16px;">Minggu / Tanggal Merah</h4>
           <p style="font-size: 14px;">Libur</p>
@@ -201,6 +231,20 @@
           </div>
         </div>
 
+=======
+
+          <h4 style="margin-bottom: -10px; font-size: 16px;">Minggu / Tanggal Merah</h4>
+          <p style="font-size: 14px;">Libur</p>
+        </div>
+
+        <div class="col-lg-4 col-md-6">
+          <h4>Maps</h4>
+          <div>
+            <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.0968208910313!2d107.57727271477331!3d-6.997878494944868!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e94c27f4ee2f%3A0x5cff6a44153d50b4!2sSMK%20Mahaputra%20Cerdas%20Utama%20.%20Yayasan%20Mahaputra!5e0!3m2!1sid!2sid!4v1640333211954!5m2!1sid!2sid" frameborder="0" allowfullscreen></iframe>
+          </div>
+        </div>
+
+>>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8:view/festfilm_detail.php
       </div>
     </div>
   </div>

@@ -5,14 +5,27 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
+<<<<<<< HEAD
   <title>smksmahaputra.sch.id</title>
+=======
+  <title>OnePage Bootstrap Template - Index</title>
+>>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
+<<<<<<< HEAD
   <link href="../assets/img/logo.png" rel="icon">
   <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
+=======
+  <link href="../assets/img/favicon.png" rel="icon">
+  <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+>>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8
   <!-- Vendor CSS Files -->
   <link href="../assets/vendor/aos/aos.css" rel="stylesheet">
   <link href="../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
