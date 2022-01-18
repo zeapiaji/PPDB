@@ -6,6 +6,9 @@
  -->
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
 =======
 >>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
 <?php include 'berita/koneksi.php';
@@ -24,6 +27,9 @@ $no = 1;
 
  ?>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
 
   <div class="position-sticky" style="top: 5rem;">
     <div class="p-4 mb-3 bg-light rounded">
@@ -50,6 +56,7 @@ $no = 1;
           </a>
           <hr>
         <?php endforeach ?>
+<<<<<<< HEAD
     </div>
   </div> 
 =======
@@ -85,6 +92,10 @@ $no = 1;
 <<<<<<< HEAD
 >>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8
 =======
+  </div> 
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
+=======
+    </div>
   </div> 
 >>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
 

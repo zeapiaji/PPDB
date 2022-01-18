@@ -6,6 +6,7 @@ $id = $_GET['id'];
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 // Counter Pengunjung
 $query              = "SELECT * FROM `berita` WHERE `id_berita` = $id";
@@ -62,6 +63,30 @@ $fetchHasil         = mysqli_fetch_assoc($hasil);
 
   $hasil            = mysqli_query($koneksi, $query);
 
+=======
+
+// Counter Pengunjung
+$query              = "SELECT * FROM `berita` WHERE `id_berita` = $id";
+$hasil              = mysqli_query($koneksi, $query);
+$fetchHasil         = mysqli_fetch_assoc($hasil);
+
+  // Update Pengunjung (Tambah 1 setiap user membaca detail berita)
+  $pengunjung       = $fetchHasil['pengunjung'];
+  $updatePengunjung = $pengunjung + 1;
+  $query            = "UPDATE `berita` SET `pengunjung`='$updatePengunjung' WHERE `id_berita` = $id";
+  mysqli_query($koneksi, $query);
+  // /.Update Pengunjung
+
+// /.Counter Pengunjung
+
+
+
+// Ambil Data
+  $query            = "SELECT * FROM `berita` WHERE `id_berita` = $id";
+
+  $hasil            = mysqli_query($koneksi, $query);
+
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
   $fetchHasil       = mysqli_fetch_assoc($hasil);
 // /.Ambil Data
 
@@ -70,7 +95,11 @@ $fetchHasil         = mysqli_fetch_assoc($hasil);
 // Format Tanggal 
 $tanggal = date('d F Y', strtotime($fetchHasil['tanggal']));
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8
+=======
+// /.Format Tanggal
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
 =======
 // /.Format Tanggal
 >>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
@@ -83,6 +112,7 @@ $tanggal = date('d F Y', strtotime($fetchHasil['tanggal']));
 <main class="container" style="margin-top: 6rem;">
   <div class="row g-5">
       <div class="col-md-8">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
         <article class="blog-post">
@@ -101,6 +131,9 @@ $tanggal = date('d F Y', strtotime($fetchHasil['tanggal']));
 >>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8
 =======
         <article class="blog-post">
+=======
+        <article class="blog-post">
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
           <div class="mb-4">
             <div class="blog-post-title col-12 mb-3"><h3 class="fw-bolder"><?php echo $fetchHasil['judul'] ?></h3></div>
             <div class="row">
@@ -108,6 +141,9 @@ $tanggal = date('d F Y', strtotime($fetchHasil['tanggal']));
               <div class="col-6"><i class="bi bi-eye"></i> <?php echo $fetchHasil['pengunjung']; ?></div>
             </div>
           </div>  
+<<<<<<< HEAD
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
+=======
 >>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
 
           <img src="assets/img/berita/<?php echo $fetchHasil['gambar']?>" style="width: 90rem; height: auto;" class="img-fluid">
@@ -117,6 +153,7 @@ $tanggal = date('d F Y', strtotime($fetchHasil['tanggal']));
           <p style="white-space: pre-line;"><?php echo $fetchHasil['konten']; ?></p>
 
         </article>
+<<<<<<< HEAD
 <<<<<<< HEAD
       </div>
       <div class="col-4">
@@ -158,6 +195,8 @@ $tanggal = date('d F Y', strtotime($fetchHasil['tanggal']));
 
 =======
 >>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
+=======
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
       </div>
       <div class="col-4">
         
@@ -166,9 +205,12 @@ $tanggal = date('d F Y', strtotime($fetchHasil['tanggal']));
       </div>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     </div>
 >>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8
 =======
+=======
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
   </div>
 </main>
 
@@ -194,4 +236,7 @@ $tanggal = date('d F Y', strtotime($fetchHasil['tanggal']));
   </div>
 </div>
 </footer>
+<<<<<<< HEAD
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
+=======
 >>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b

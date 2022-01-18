@@ -4,6 +4,7 @@ include 'koneksi.php';
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 $query = "SELECT * FROM `berita` ORDER BY `id_berita` DESC";
 
 $hasil = mysqli_query($koneksi, $query);
@@ -25,12 +26,21 @@ $query = "SELECT * FROM `berita` ORDER BY `id_berita` DESC";
 
 $hasil = mysqli_query($koneksi, $query);
 
+=======
+$query = "SELECT * FROM `berita` ORDER BY `id_berita` DESC";
+
+$hasil = mysqli_query($koneksi, $query);
+
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
 // Hanya dipakai untuk Hero
 $queryHero = "SELECT * FROM `berita` ORDER BY `pengunjung` DESC";
 
 $data = mysqli_query($koneksi, $queryHero);
 
 $hero = mysqli_fetch_assoc($data); 
+<<<<<<< HEAD
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
+=======
 >>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
 
 ?>
@@ -40,9 +50,12 @@ $hero = mysqli_fetch_assoc($data);
   <!-- Bootstrap core CSS -->
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8
+=======
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
 =======
 >>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
     <style>
@@ -73,6 +86,9 @@ $hero = mysqli_fetch_assoc($data);
 </div>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
 =======
 >>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
   
@@ -86,6 +102,7 @@ $hero = mysqli_fetch_assoc($data);
     <!-- Divider/spacer -->
     <div class="col-lg-2 col-md-2 col-sm-12"><br></div>
     <!-- /.Divider -->
+<<<<<<< HEAD
 <<<<<<< HEAD
 
     <div class="col-lg-5 col-md-5 col-sm-12 px-0 text-center">
@@ -112,12 +129,19 @@ $hero = mysqli_fetch_assoc($data);
       <img src="assets/img/berita/<?php echo $hero['gambar']?>" style="height:300px; width: 500px;" class="img-fluid rounded"  alt="">
     </div>
 >>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
+=======
+
+    <div class="col-lg-5 col-md-5 col-sm-12 px-0 text-center">
+      <img src="assets/img/berita/<?php echo $hero['gambar']?>" style="height:300px; width: 500px;" class="img-fluid rounded"  alt="">
+    </div>
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
     </div>
   </div>
       
 
 <main class="container mt-5">
   <div class="row mb-2">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <?php foreach ($hasil as $key): ?>
@@ -144,10 +168,15 @@ $hero = mysqli_fetch_assoc($data);
     <div class="col-lg-9 col-md-8 col-sm-12">
       <div class="row">
 >>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
+=======
+    <div class="col-lg-9 col-md-8 col-sm-12">
+      <div class="row">
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
         <?php foreach ($hasil as $key): 
           // Format Tanggal
           $tanggal = date('d F Y', strtotime($key['tanggal']));
         ?>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
         <div class="col-lg-6 col-md-6 col-sm-12">
@@ -170,12 +199,21 @@ $hero = mysqli_fetch_assoc($data);
           <div class="card mb-3" style="min-height:430px;">
             <img src="assets/img/berita/<?php echo $key['gambar'] ?>" class="card-img-top" style="height: 225px;" alt="gambar-<?php echo $key['id_berita'] ?>">
 >>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
+=======
+        <div class="col-lg-6 col-md-6 col-sm-12">
+          <div class="card mb-3" style="min-height:430px;">
+            <img src="assets/img/berita/<?php echo $key['gambar'] ?>" class="card-img-top" style="height: 225px;" alt="gambar-<?php echo $key['id_berita'] ?>">
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
             <div class="card-body">
               <h5 class="card-title text-truncate"><strong><?php echo $key['judul'] ?></strong></h5>
               <h6 class="card-text text-muted"><?php echo $tanggal ?></h6>
               <p class="card-text konten-berita col-12" style="height:75px;"><?php echo $key['konten']; ?></p>
             <div class="card-footer">
               <a href="master-detail-berita.php?id=<?php echo $key['id_berita'] ?>">Baca</a>
+<<<<<<< HEAD
+=======
+            </div>
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
             </div>
             </div>
 >>>>>>> 0138a7e36fb2c56b559b491fd9c8957a885d66ee
@@ -185,6 +223,7 @@ $hero = mysqli_fetch_assoc($data);
         <?php endforeach ?>
       </div>
     </div>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <div class="col-lg-3 col-md-4 col-sm-12">
@@ -331,6 +370,12 @@ $hero = mysqli_fetch_assoc($data);
   </div>
 
 >>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8
+=======
+    <div class="col-lg-3 col-md-4 col-sm-12">
+      <?php include 'view/sidebar.php'; ?>
+    </div>
+  </div>
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
 =======
     <div class="col-lg-3 col-md-4 col-sm-12">
       <?php include 'view/sidebar.php'; ?>
