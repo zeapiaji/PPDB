@@ -20,9 +20,13 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 <<<<<<< HEAD
+<<<<<<< HEAD
   <link href="assets/css/costum.css" rel="stylesheet">
 =======
 >>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8
+=======
+  <link href="assets/css/costum.css" rel="stylesheet">
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
   <!-- =======================================================
   * Template Name: OnePage - v4.6.0
   * Template URL: https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/

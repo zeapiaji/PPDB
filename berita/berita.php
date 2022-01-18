@@ -3,6 +3,7 @@
 include 'koneksi.php';
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 $query = "SELECT * FROM `berita` ORDER BY `id_berita` DESC";
 
 $hasil = mysqli_query($koneksi, $query);
@@ -19,6 +20,18 @@ $query = "SELECT * FROM `berita`";
 $hasil = mysqli_query($koneksi, $query);
 
 >>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8
+=======
+$query = "SELECT * FROM `berita` ORDER BY `id_berita` DESC";
+
+$hasil = mysqli_query($koneksi, $query);
+
+// Hanya dipakai untuk Hero
+$queryHero = "SELECT * FROM `berita` ORDER BY `pengunjung` DESC";
+
+$data = mysqli_query($koneksi, $queryHero);
+
+$hero = mysqli_fetch_assoc($data); 
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
 
 ?>
 
@@ -26,9 +39,12 @@ $hasil = mysqli_query($koneksi, $query);
 <html lang="en">
   <!-- Bootstrap core CSS -->
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8
+=======
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
     <style>
       .bd-placeholder-img {
         font-size: 1.125rem;
@@ -56,6 +72,9 @@ $hasil = mysqli_query($koneksi, $query);
   </header>
 </div>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
   
   <div class="container-fluid p-4 p-md-5 mb-4 text-white bg-dark mt-4" style="max-height: 390px;">
     <div class="row">
@@ -67,6 +86,7 @@ $hasil = mysqli_query($koneksi, $query);
     <!-- Divider/spacer -->
     <div class="col-lg-2 col-md-2 col-sm-12"><br></div>
     <!-- /.Divider -->
+<<<<<<< HEAD
 
     <div class="col-lg-5 col-md-5 col-sm-12 px-0 text-center">
       <img src="assets/img/berita/<?php echo $hero['gambar']?>" style="height:300px; width: 500px;" class="img-fluid rounded"  alt="">
@@ -86,11 +106,19 @@ $hasil = mysqli_query($koneksi, $query);
       <h1 class="display-4 fst-italic">Halaman Berita SMKS MAHAPUTRA CERDAS UTAMA</h1>
       <p class="lead my-3">Halaman berita, menampilkan informasi-informasi SMKS Mahaputra secara Up To Date.</p>
       <a href="master-tambah-berita.php">Tambah Berita</a>
+=======
+
+    <div class="col-lg-5 col-md-5 col-sm-12 px-0 text-center">
+      <img src="assets/img/berita/<?php echo $hero['gambar']?>" style="height:300px; width: 500px;" class="img-fluid rounded"  alt="">
+    </div>
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
     </div>
   </div>
       
 
+<main class="container mt-5">
   <div class="row mb-2">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <?php foreach ($hasil as $key): ?>
       <div class="col-md-4">
@@ -112,10 +140,15 @@ $hasil = mysqli_query($koneksi, $query);
       <div class="row">
 
 >>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8
+=======
+    <div class="col-lg-9 col-md-8 col-sm-12">
+      <div class="row">
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
         <?php foreach ($hasil as $key): 
           // Format Tanggal
           $tanggal = date('d F Y', strtotime($key['tanggal']));
         ?>
+<<<<<<< HEAD
 <<<<<<< HEAD
         <div class="col-lg-6 col-md-6 col-sm-12">
           <div class="card mb-3" style="min-height:430px;">
@@ -132,10 +165,18 @@ $hasil = mysqli_query($koneksi, $query);
         <div class="col-6">
           <div class="card mb-3">
             <img src="assets/img/berita/<?php echo $key['gambar'] ?>" class="card-img-top" alt="gambar-<?php echo $key['id_berita'] ?>">
+=======
+        <div class="col-lg-6 col-md-6 col-sm-12">
+          <div class="card mb-3" style="min-height:430px;">
+            <img src="assets/img/berita/<?php echo $key['gambar'] ?>" class="card-img-top" style="height: 225px;" alt="gambar-<?php echo $key['id_berita'] ?>">
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
             <div class="card-body">
-              <h5 class="card-title"><?php echo $key['judul'] ?></h5>
-              <h5 class="card-text text-muted"><?php echo $tanggal ?></h5>
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <h5 class="card-title text-truncate"><strong><?php echo $key['judul'] ?></strong></h5>
+              <h6 class="card-text text-muted"><?php echo $tanggal ?></h6>
+              <p class="card-text konten-berita col-12" style="height:75px;"><?php echo $key['konten']; ?></p>
+            <div class="card-footer">
+              <a href="master-detail-berita.php?id=<?php echo $key['id_berita'] ?>">Baca</a>
+            </div>
             </div>
 >>>>>>> 0138a7e36fb2c56b559b491fd9c8957a885d66ee
 >>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8
@@ -144,6 +185,7 @@ $hasil = mysqli_query($koneksi, $query);
         <?php endforeach ?>
       </div>
     </div>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <div class="col-lg-3 col-md-4 col-sm-12">
       <?php include 'view/sidebar.php'; ?>
@@ -289,6 +331,12 @@ $hasil = mysqli_query($koneksi, $query);
   </div>
 
 >>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8
+=======
+    <div class="col-lg-3 col-md-4 col-sm-12">
+      <?php include 'view/sidebar.php'; ?>
+    </div>
+  </div>
+>>>>>>> ab11b1164640fb4ea0c2b6105a012b97a571fe5b
 </main>
 
 <footer class="blog-footer mt-5">
