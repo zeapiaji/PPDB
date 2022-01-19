@@ -9,6 +9,7 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+  <script src="assets/js/main.js"></script>
 
   <!-- News -->
   <script src="assets/js/jquery-2.1.3.min.js"></script>

@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
+<<<<<<< HEAD
   <form action="berita/proses-berita.php" method="POST" enctype="multipart/form-data" class="needs-validation" novalidate>
+=======
+  <form action="berita/controller/proses-berita.php" method="POST" enctype="multipart/form-data" class="needs-validation" novalidate>
+>>>>>>> 9b0524b10c4a6dff1763628e3db190c78bf489d8
     <div class="container p-5">
       <div class="card"> 
         <div class="row g-0">

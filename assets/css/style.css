@@ -1552,7 +1552,6 @@ section {
   font-weight: bold;
   color: #124265;
   position: relative;
-  padding-bottom: 12px;
 }
 #footer .footer-top .footer-links {
   margin-bottom: 30px;
@@ -1592,6 +1591,7 @@ section {
 #footer .footer-newsletter h4 {
   font-size: 16px;
   font-weight: bold;
+  color: #2487ce;
   color: #444444;
   position: relative;
   padding-bottom: 12px;

@@ -1,6 +1,6 @@
  <!-- ======= Hero Section ======= -->
- <section id="hero" class="d-flex">
-  <div class="container-fluid position-relative" data-aos="fade-up" data-aos-delay="100" style="padding-right: 0px; padding-left: 0px;">
+<section id="hero" class="d-flex">
+  <div class="container-fluid position-relative" data-aos="fade-up" data-aos-delay="100" style="padding-right: 0px; padding-left: 0px">
     <div data-aos="fade-up" data-aos-delay="100">
       <div id="carouselExampleIndicators" class="carousel slide mt-4" data-bs-ride="carousel">
         <div class="carousel-indicators">
@@ -10,13 +10,13 @@
         </div>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="mahput.jpg" class="d-block w-100" alt="..." >
+            <img src="mahput.jpg" style="height: 585px;" class="d-block w-100" alt="..." >
           </div>
           <div class="carousel-item">
-            <img src="mm.jpg" class="d-block w-100" alt="...">
+            <img src="mm.jpg" style="height: 585px;" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="rpl.jpg" class="d-block w-100" alt="...">
+            <img src="rpl.jpg" style="height: 585px;" class="d-block w-100" alt="...">
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
