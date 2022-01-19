@@ -47,18 +47,24 @@ $hero = mysqli_fetch_assoc($data);
   
   <div class="container-fluid p-4 p-md-5 mb-4 text-white bg-dark mt-4" style="max-height: 390px;">
     <div class="row">
-    <div class="col-lg-5 col-md-5 col-sm-12 px-0">
-      <h1 class="display-4 fst-italic">Headline</h1>
-      <p class="lead my-3 konten"><?php echo $hero['konten']?></p>
-    </div>
+      
+      <div class="col-lg-5 col-md-5 col-sm-12 px-0">
+        <a href="master-detail-berita.php?id=<?php echo $hero['id_berita']?>" class="link-light">
+          <h1 class="display-4 fst-italic">Headline</h1>
+          <p class="lead my-3 konten"><?php echo $hero['konten']?></p>
+        </a>  
+      </div>
 
-    <!-- Divider/spacer -->
-    <div class="col-lg-2 col-md-2 col-sm-12"><br></div>
-    <!-- /.Divider -->
+      <!-- Divider/spacer -->
+      <div class="col-lg-2 col-md-2 col-sm-12"><br></div>
+      <!-- /.Divider -->
 
-    <div class="col-lg-5 col-md-5 col-sm-12 px-0 text-center">
-      <img src="assets/img/berita/<?php echo $hero['gambar']?>" style="height:300px; width: 500px;" class="img-fluid rounded"  alt="">
-    </div>
+      <div class="col-lg-5 col-md-5 col-sm-12 px-0 text-center">
+        <a href="master-detail-berita.php?id=<?php echo $hero['id_berita']?>">
+          <img src="assets/img/berita/<?php echo $hero['gambar']?>" style="height:300px; width: 500px;" class="img-fluid rounded"  alt="">
+        </a>
+      </div>
+      
     </div>
   </div>
 
@@ -71,22 +77,26 @@ $hero = mysqli_fetch_assoc($data);
           $tanggal = date('d F Y', strtotime($key['tanggal']));
         ?>
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <div class="card mb-3" style="min-height:430px;">
-            <img src="assets/img/berita/<?php echo $key['gambar'] ?>" class="card-img-top" style="height: 225px;" alt="gambar-<?php echo $key['id_berita'] ?>">
-            <div class="card-body">
-              <h5 class="card-title text-truncate"><strong><?php echo $key['judul'] ?></strong></h5>
-              <h6 class="card-text text-muted"><?php echo $tanggal ?></h6>
-              <p class="card-text konten-berita col-12" style="height:75px;"><?php echo $key['konten']; ?></p>
-            <div class="card-footer">
-              <a href="master-detail-berita.php?id=<?php echo $key['id_berita'] ?>">Baca</a>
-            </div>
-            </div>
+          <div class="card mb-3" style="height: 460px;">
+            <a href="master-detail-berita.php?id=<?php echo $key['id_berita'] ?>" class="link-dark">
+              <img src="assets/img/berita/<?php echo $key['gambar'] ?>" class="card-img-top" style="height: 225px;" alt="gambar-<?php echo $key['id_berita'] ?>">
+              <div class="card-body">
+                <h5 class="card-title col-12 konten-judul" style="min-height: 25px; max-height: 50px;"><strong><?php echo $key['judul'] ?></strong></h5>
+                <h6 class="card-text text-muted"><?php echo $tanggal ?></h6>
+                <?php if (isset($_SESSION['username'])): ?>
+                  <a href="master-tambah-berita.php">Tambah Berita</a>
+                <?php endif?>
+                <hr>
+                <p class="card-text konten-berita col-12" style="height: 75px;"><?php echo $key['konten']; ?></p>
+              </div>
+            </a>
           </div>
          </div> 
         <?php endforeach ?>
       </div>
     </div>
     <div class="col-lg-3 col-md-4 col-sm-12">
+      
       <?php include 'view/sidebar.php'; ?>
     </div>
   </div>

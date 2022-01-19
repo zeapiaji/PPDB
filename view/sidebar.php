@@ -13,7 +13,7 @@ $hasil = mysqli_query($koneksi, $query);
 // Convert mysqli_result -> PHP Array
 $rows =[];
 while($row = mysqli_fetch_array($hasil)){
-  $rows[]=$row;
+  $rows[] = $row;
 }
 
 $no = 1;
@@ -24,6 +24,8 @@ $no = 1;
     <div class="p-4 mb-3 bg-light rounded">
       <h4 class="fst-italic">Halaman Berita</h4>
         <p class="mb-0">Menampilkan informasi-informasi terkini di SMKS Mahaputra Cerdas Utama secara Up To Date.</p>
+        <a href="master-login.php">Login Disini</a>
+        <a href="auth/logout.php">Logout</a>
     </div>
 
   <div class="container-fluid bg-light rounded">
@@ -34,16 +36,14 @@ $no = 1;
             <div class="card mb-3">
               <div class="card-body">
                 <div class="row">
-                  <div class="col-2"><h1><center><?php echo $no++; ?></center></h1></div>
-                  <div class="col-10">
-                    <h6 class="card-title text-truncate"><strong><?php echo $key['judul'] ?> </strong></h6>
-                    <div class="card-text text-muted mt-3" style="font-size:13px;">Dibaca sebanyak <?php echo $key['pengunjung']; ?> kali</div>
+                  <div class="col-4"><h1><center><?php echo $no++; ?></center></h1></div>
+                  <div class="col-8">
+                    <h6 class="card-title col-12 konten-sidebar"><strong><?php echo $key['judul'] ?> </strong></h6>
                   </div>
                 </div>
               </div>
             </div>
           </a>
-          <hr>
         <?php endforeach ?>
     </div>
   </div> 

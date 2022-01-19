@@ -47,20 +47,17 @@ $tanggal = date('d F Y', strtotime($fetchHasil['tanggal']));
           <div class="mb-4">
             <div class="blog-post-title col-12 mb-3"><h3 class="fw-bolder"><?php echo $fetchHasil['judul'] ?></h3></div>
             <div class="row">
-              <div class="col-3"><div class="blog-post-meta"><?php echo $tanggal ?></div></div>
-              <div class="col-6"><i class="bi bi-eye"></i> <?php echo $fetchHasil['pengunjung']; ?></div>
+              <div class="col-3"><div class="blog-post-meta"><i class="bi bi-clock"></i> <?php echo $tanggal ?></div></div>
+              <div class="col-9 text-start"><i class="bi bi-eye"></i> <?php echo $fetchHasil['pengunjung']; ?></div>
             </div>
           </div>  
-
           <img src="assets/img/berita/<?php echo $fetchHasil['gambar']?>" style="width: 90rem; height: auto;" class="img-fluid">
-
           <hr>
           <p style="white-space: pre-line;"><?php echo $fetchHasil['konten']; ?></p>
 
         </article>
       </div>
       <div class="col-4">
-        
       <!-- Sidebar -->
       <?php include 'view/sidebar.php'; ?>
       </div>
